@@ -1,5 +1,16 @@
 [
   {
+    "deadline": "2026-10-23",
+    "title": "Build, Ship, Shape: Amazon Developer Hackathon 2026",
+    "org": "Amazon Developer",
+    "kind": "hackathon",
+    "amount": "$25,000 cash plus $15,000 AWS credits for each track winner",
+    "who": "Individuals, teams and organizations, online; tracks for Fire TV, Alexa+, Bee, Ring and AWS",
+    "india": "yes",
+    "link": "https://amazonappdev2026.devpost.com/",
+    "checked": "2026-10-14"
+  },
+  {
     "deadline": "2026-10-25",
     "title": "Meta Global AI Developer Hackathon",
     "org": "Meta and Cerebral Valley",
@@ -8,6 +19,50 @@
     "who": "Individual builders, students and startup teams; virtual, up to 20,000 accepted",
     "india": "yes",
     "link": "https://cerebralvalley.ai/e/meta-ai-developer-hackathon",
+    "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-01",
+    "title": "a16z speedrun SR008",
+    "org": "Andreessen Horowitz (a16z)",
+    "kind": "accelerator",
+    "amount": "Up to $1M investment plus $10M+ in partner credits",
+    "who": "Very early founders, solo founders and students welcome; 12 weeks in person in San Francisco",
+    "india": "yes",
+    "link": "https://speedrun.a16z.com/apply",
+    "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-02",
+    "title": "ARC Prize 2026",
+    "org": "ARC Prize Foundation",
+    "kind": "competition",
+    "amount": "$2M in total prizes",
+    "who": "Anyone on Kaggle; solutions must be open-sourced, no internet or API models during evaluation",
+    "india": "unclear",
+    "link": "https://arcprize.org/competitions/2026/",
+    "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-02",
+    "title": "Y Combinator Winter 2027 batch",
+    "org": "Y Combinator",
+    "kind": "accelerator",
+    "amount": "$500,000 investment",
+    "who": "Any startup, anywhere in the world; YC helps with visas and incorporation",
+    "india": "yes",
+    "link": "https://www.ycombinator.com/apply",
+    "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-12",
+    "title": "PayPal AI Hackathon",
+    "org": "PayPal",
+    "kind": "hackathon",
+    "amount": "$12,000 first prize; $69,750 in total prizes",
+    "who": "Individuals, teams and organizations, online; must build with PayPal sandbox plus an AI tool",
+    "india": "yes",
+    "link": "https://paypalaihackathon.devpost.com/",
     "checked": "2026-10-14"
   }
 ]

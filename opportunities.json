@@ -1,5 +1,16 @@
 [
   {
+    "deadline": "2026-10-18",
+    "title": "Anthropic Fellows Program, January 2027 cohort",
+    "org": "Anthropic",
+    "kind": "fellowship",
+    "amount": "$3,850 a week stipend plus about $15k a month compute, 4 months",
+    "who": "Technical people moving into AI research, no PhD needed; must have work authorization in the US, UK or Canada and be located there",
+    "india": "no",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+    "checked": "2026-10-15"
+  },
+  {
     "deadline": "2026-10-23",
     "title": "Build, Ship, Shape: Amazon Developer Hackathon 2026",
     "org": "Amazon Developer",
@@ -20,6 +31,17 @@
     "india": "yes",
     "link": "https://cerebralvalley.ai/e/meta-ai-developer-hackathon",
     "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-10-26",
+    "title": "OpenCV AI Competition 2026, powered by AWS",
+    "org": "OpenCV and AWS",
+    "kind": "competition",
+    "amount": "$5,000 first prize; up to $12,000 in cash awards",
+    "who": "Anyone above the age of majority, teams of 1 to 5, online; must use OpenCV 5 and AWS",
+    "india": "yes",
+    "link": "https://opencv26.devpost.com/",
+    "checked": "2026-10-15"
   },
   {
     "deadline": "2026-11-01",
@@ -64,5 +86,27 @@
     "india": "yes",
     "link": "https://paypalaihackathon.devpost.com/",
     "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-15",
+    "title": "Code for a Billion: Bharat Agentic-AI Hackathon",
+    "org": "Code for India",
+    "kind": "hackathon",
+    "amount": "Rs 1,50,000 first prize per track; Rs 18 lakh total",
+    "who": "Students, professionals and indie developers, solo or teams, anywhere; open-source agents for public-impact areas",
+    "india": "yes",
+    "link": "https://codeforindia.org/hackathon",
+    "checked": "2026-10-15"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "Tarbell Fellowship 2027-28",
+    "org": "Tarbell Center for AI Journalism",
+    "kind": "fellowship",
+    "amount": "$75,000 to $120,000 salary ($115,000 to $135,000 for senior fellows)",
+    "who": "Journalists and AI experts covering AI, 18+ by June 7, 2027, no degree required; placements in partner newsrooms in the US, UK and Hong Kong",
+    "india": "unclear",
+    "link": "https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form",
+    "checked": "2026-10-15"
   }
 ]

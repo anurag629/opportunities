@@ -44,6 +44,28 @@
     "checked": "2026-10-15"
   },
   {
+    "deadline": "2026-10-27",
+    "title": "GitLab Transcend: Life After Code Hackathon",
+    "org": "GitLab",
+    "kind": "hackathon",
+    "amount": "$45,000 in cash",
+    "who": "Individuals of legal age, teams or organizations, online; build with GitLab Duo Agent Platform",
+    "india": "yes",
+    "link": "https://gitlab-transcend.devpost.com/",
+    "checked": "2026-10-16"
+  },
+  {
+    "deadline": "2026-10-30",
+    "title": "Qloo Agentic Hackathon",
+    "org": "Qloo",
+    "kind": "hackathon",
+    "amount": "$25,000 in prizes",
+    "who": "Individuals of legal age, teams or organizations, online; build an agentic app that uses the Qloo API",
+    "india": "yes",
+    "link": "https://qloo.devpost.com/",
+    "checked": "2026-10-16"
+  },
+  {
     "deadline": "2026-11-01",
     "title": "a16z speedrun SR008",
     "org": "Andreessen Horowitz (a16z)",
@@ -77,6 +99,17 @@
     "checked": "2026-10-14"
   },
   {
+    "deadline": "2026-11-03",
+    "title": "NLnet open source grants, November call",
+    "org": "NLnet Foundation",
+    "kind": "grant",
+    "amount": "€5,000 to €50,000 for a first grant",
+    "who": "Builders of open source software, hardware or content; EU-backed funds need a strong European dimension",
+    "india": "unclear",
+    "link": "https://nlnet.nl/propose/",
+    "checked": "2026-10-16"
+  },
+  {
     "deadline": "2026-11-12",
     "title": "PayPal AI Hackathon",
     "org": "PayPal",
@@ -108,5 +141,16 @@
     "india": "unclear",
     "link": "https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form",
     "checked": "2026-10-15"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Thiel Fellowship",
+    "org": "Thiel Foundation",
+    "kind": "fellowship",
+    "amount": "$250,000 over two years, no equity",
+    "who": "Anyone 22 or younger without a university degree who wants to build instead of attending college",
+    "india": "unclear",
+    "link": "https://thielfellowship.org/",
+    "checked": "2026-10-16"
   }
 ]

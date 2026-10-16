@@ -56,6 +56,17 @@
   },
   {
     "deadline": "2026-10-30",
+    "title": "Nebius x NVIDIA Global AI Hackathon",
+    "org": "Nebius and NVIDIA",
+    "kind": "hackathon",
+    "amount": "$50,000 in prizes",
+    "who": "Individuals of legal age, teams or organizations, online; build on Nebius AI Cloud or Token Factory with an NVIDIA open model",
+    "india": "yes",
+    "link": "https://nebiusglobalaihackathon.devpost.com/",
+    "checked": "2026-10-16"
+  },
+  {
+    "deadline": "2026-10-30",
     "title": "Qloo Agentic Hackathon",
     "org": "Qloo",
     "kind": "hackathon",

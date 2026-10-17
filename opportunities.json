@@ -55,6 +55,17 @@
     "checked": "2026-10-16"
   },
   {
+    "deadline": "2026-10-28",
+    "title": "AWS Communication Developer Services Agentic AI Partner Hackathon",
+    "org": "Amazon Web Services",
+    "kind": "hackathon",
+    "amount": "$40,000 in cash, $18,000 first prize",
+    "who": "Only people employed by or acting for an AWS Partner Network (APN) member organization; online",
+    "india": "yes",
+    "link": "https://aws-cds-partner.devpost.com/",
+    "checked": "2026-10-17"
+  },
+  {
     "deadline": "2026-10-30",
     "title": "Nebius x NVIDIA Global AI Hackathon",
     "org": "Nebius and NVIDIA",
@@ -108,6 +119,17 @@
     "india": "yes",
     "link": "https://www.ycombinator.com/apply",
     "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-11-02",
+    "title": "YouCam API Skin AI & eCommerce VTO Hackathon",
+    "org": "Perfect Corp (YouCam)",
+    "kind": "hackathon",
+    "amount": "$6,000 in cash, $2,500 first prize, plus a student-only $1,000 award",
+    "who": "Individuals of legal age, teams or organizations, online; build a web or mobile prototype with the YouCam API",
+    "india": "yes",
+    "link": "https://youcam-api-skin-ai-ecommerce.devpost.com/",
+    "checked": "2026-10-17"
   },
   {
     "deadline": "2026-11-03",

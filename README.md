@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 17 Oct 2026 · 17 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 17 Oct 2026 · 18 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -34,6 +34,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 3 Nov 2026 (17 days) | **NLnet open source grants, November call** (NLnet Foundation) | €5,000 to €50,000 for a first grant | Builders of open source software, hardware or content; EU-backed funds need a strong European dimension | Unclear | [Apply](https://nlnet.nl/propose/) |
 | 12 Nov 2026 (26 days) | **PayPal AI Hackathon** (PayPal) | $12,000 first prize; $69,750 in total prizes | Individuals, teams and organizations, online; must build with PayPal sandbox plus an AI tool | Yes | [Apply](https://paypalaihackathon.devpost.com/) |
 | 15 Nov 2026 (29 days) | **Code for a Billion: Bharat Agentic-AI Hackathon** (Code for India) | Rs 1,50,000 first prize per track; Rs 18 lakh total | Students, professionals and indie developers, solo or teams, anywhere; open-source agents for public-impact areas | Yes | [Apply](https://codeforindia.org/hackathon) |
+| 18 Nov 2026 (32 days) | **Meta VR Start Developer Competition 2026** (Meta) | $1M in cash prizes, 20 awards, $100,000 top prize in each track | Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program | Yes | [Apply](https://start-developer-competition-26.devpost.com/) |
 | 22 Nov 2026 (36 days) | **Tarbell Fellowship 2027-28** (Tarbell Center for AI Journalism) | $75,000 to $120,000 salary ($115,000 to $135,000 for senior fellows) | Journalists and AI experts covering AI, 18+ by June 7, 2027, no degree required; placements in partner newsrooms in the US, UK and Hong Kong | Unclear | [Apply](https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form) |
 
 ## Rolling (no fixed deadline)

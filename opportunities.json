@@ -165,6 +165,17 @@
     "checked": "2026-10-15"
   },
   {
+    "deadline": "2026-11-18",
+    "title": "Meta VR Start Developer Competition 2026",
+    "org": "Meta",
+    "kind": "competition",
+    "amount": "$1M in cash prizes, 20 awards, $100,000 top prize in each track",
+    "who": "Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program",
+    "india": "yes",
+    "link": "https://start-developer-competition-26.devpost.com/",
+    "checked": "2026-10-17"
+  },
+  {
     "deadline": "2026-11-22",
     "title": "Tarbell Fellowship 2027-28",
     "org": "Tarbell Center for AI Journalism",

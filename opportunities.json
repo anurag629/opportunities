@@ -52,7 +52,7 @@
     "who": "Individuals of legal age, teams or organizations, online; build with GitLab Duo Agent Platform",
     "india": "yes",
     "link": "https://gitlab-transcend.devpost.com/",
-    "checked": "2026-10-16"
+    "checked": "2026-10-18"
   },
   {
     "deadline": "2026-10-28",
@@ -74,7 +74,7 @@
     "who": "Individuals of legal age, teams or organizations, online; build on Nebius AI Cloud or Token Factory with an NVIDIA open model",
     "india": "yes",
     "link": "https://nebiusglobalaihackathon.devpost.com/",
-    "checked": "2026-10-16"
+    "checked": "2026-10-18"
   },
   {
     "deadline": "2026-10-30",
@@ -143,6 +143,28 @@
     "checked": "2026-10-16"
   },
   {
+    "deadline": "2026-11-09",
+    "title": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships, 3rd call",
+    "org": "EPFL AI Center",
+    "kind": "fellowship",
+    "amount": "About 50% of a postdoc salary plus up to CHF 5,000 a year for research costs",
+    "who": "Postdocs with a PhD from the last two years, or final-year PhD students, any nationality; needs two EPFL AI Center host professors",
+    "india": "yes",
+    "link": "https://www.epfl.ch/research/funding/epfl-programmes/ai-center/",
+    "checked": "2026-10-18"
+  },
+  {
+    "deadline": "2026-11-09",
+    "title": "Learn AR with SPECS",
+    "org": "Snap Inc.",
+    "kind": "hackathon",
+    "amount": "$2,500 in cash, $1,250 first prize",
+    "who": "Individuals of legal age, teams or organizations, online; design an AR app for glasses and build it in Lens Studio, no glasses needed",
+    "india": "yes",
+    "link": "https://learn-specs.devpost.com/",
+    "checked": "2026-10-18"
+  },
+  {
     "deadline": "2026-11-12",
     "title": "PayPal AI Hackathon",
     "org": "PayPal",
@@ -185,6 +207,17 @@
     "india": "unclear",
     "link": "https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form",
     "checked": "2026-10-15"
+  },
+  {
+    "deadline": "2026-11-25",
+    "title": "HackWithAditya",
+    "org": "Aditya University",
+    "kind": "hackathon",
+    "amount": "Rs 5,00,000 prize pool",
+    "who": "College and university students across India, teams of 4 to 6; finals in person at Aditya University, Andhra Pradesh, 18 to 20 December",
+    "india": "yes",
+    "link": "https://hackwithaditya.devpost.com/",
+    "checked": "2026-10-18"
   },
   {
     "deadline": "rolling",

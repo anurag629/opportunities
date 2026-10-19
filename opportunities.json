@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-10-18",
-    "title": "Anthropic Fellows Program, January 2027 cohort",
-    "org": "Anthropic",
-    "kind": "fellowship",
-    "amount": "$3,850 a week stipend plus about $15k a month compute, 4 months",
-    "who": "Technical people moving into AI research, no PhD needed; must have work authorization in the US, UK or Canada and be located there",
-    "india": "no",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-    "checked": "2026-10-15"
-  },
-  {
     "deadline": "2026-10-23",
     "title": "Build, Ship, Shape: Amazon Developer Hackathon 2026",
     "org": "Amazon Developer",
@@ -31,6 +20,17 @@
     "india": "yes",
     "link": "https://cerebralvalley.ai/e/meta-ai-developer-hackathon",
     "checked": "2026-10-14"
+  },
+  {
+    "deadline": "2026-10-26",
+    "title": "Build With AI: Basics",
+    "org": "Devpost",
+    "kind": "hackathon",
+    "amount": "$2,500 in cash, $1,250 first prize",
+    "who": "Anyone of legal age, solo or team, online and beginner friendly; build a small working app with a coding agent",
+    "india": "yes",
+    "link": "https://learn-ai-basics.devpost.com/",
+    "checked": "2026-10-19"
   },
   {
     "deadline": "2026-10-26",
@@ -169,11 +169,11 @@
     "title": "PayPal AI Hackathon",
     "org": "PayPal",
     "kind": "hackathon",
-    "amount": "$12,000 first prize; $69,750 in total prizes",
-    "who": "Individuals, teams and organizations, online; must build with PayPal sandbox plus an AI tool",
+    "amount": "$67,500 in cash, $12,000 first prize",
+    "who": "Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI",
     "india": "yes",
     "link": "https://paypalaihackathon.devpost.com/",
-    "checked": "2026-10-14"
+    "checked": "2026-10-19"
   },
   {
     "deadline": "2026-11-15",
@@ -228,6 +228,6 @@
     "who": "Anyone 22 or younger without a university degree who wants to build instead of attending college",
     "india": "unclear",
     "link": "https://thielfellowship.org/",
-    "checked": "2026-10-16"
+    "checked": "2026-10-19"
   }
 ]

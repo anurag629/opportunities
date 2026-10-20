@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 20 Oct 2026 · 22 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 20 Oct 2026 · 24 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -13,6 +13,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
 | 23 Oct 2026 (3 days) | **Build, Ship, Shape: Amazon Developer Hackathon 2026** (Amazon Developer) | $25,000 cash plus $15,000 AWS credits for each track winner | Individuals, teams and organizations, online; tracks for Fire TV, Alexa+, Bee, Ring and AWS | Yes | [Apply](https://amazonappdev2026.devpost.com/) |
+| 23 Oct 2026 (3 days) | **Neighborhood Hacks 2026** (Neighborhood Hacks) | $57,866 in listed prize value, mostly software credits | High school students (or equivalent), ages 13 to 21, worldwide, online; build a project that supports your local community | Yes | [Apply](https://neighborhood-hacks-2026.devpost.com/) |
 | 25 Oct 2026 (5 days) | **IEEE ClimateChain Global Hackathon** (IEEE Blockchain Committee and IEEE Turkey) | $3,000 in cash ($1,500 first prize) plus IEEE certificates | Students, researchers, independent developers and startups, teams of 2 to 5 or solo, online; AI and blockchain for climate | Unclear | [Apply](https://ieee-climatechain-hack.devpost.com/) |
 | 25 Oct 2026 (5 days) | **Meta Global AI Developer Hackathon** (Meta and Cerebral Valley) | $1,000,000 in total prizes | Individual builders, students and startup teams; virtual, up to 20,000 accepted | Yes | [Apply](https://cerebralvalley.ai/e/meta-ai-developer-hackathon) |
 | 26 Oct 2026 (6 days) | **Build With AI: Basics** (Devpost) | $2,500 in cash, $1,250 first prize | Anyone of legal age, solo or team, online and beginner friendly; build a small working app with a coding agent | Yes | [Apply](https://learn-ai-basics.devpost.com/) |
@@ -24,6 +25,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
 | 23 Oct 2026 (3 days) | **Build, Ship, Shape: Amazon Developer Hackathon 2026** (Amazon Developer) | $25,000 cash plus $15,000 AWS credits for each track winner | Individuals, teams and organizations, online; tracks for Fire TV, Alexa+, Bee, Ring and AWS | Yes | [Apply](https://amazonappdev2026.devpost.com/) |
+| 23 Oct 2026 (3 days) | **Neighborhood Hacks 2026** (Neighborhood Hacks) | $57,866 in listed prize value, mostly software credits | High school students (or equivalent), ages 13 to 21, worldwide, online; build a project that supports your local community | Yes | [Apply](https://neighborhood-hacks-2026.devpost.com/) |
 | 25 Oct 2026 (5 days) | **IEEE ClimateChain Global Hackathon** (IEEE Blockchain Committee and IEEE Turkey) | $3,000 in cash ($1,500 first prize) plus IEEE certificates | Students, researchers, independent developers and startups, teams of 2 to 5 or solo, online; AI and blockchain for climate | Unclear | [Apply](https://ieee-climatechain-hack.devpost.com/) |
 | 25 Oct 2026 (5 days) | **Meta Global AI Developer Hackathon** (Meta and Cerebral Valley) | $1,000,000 in total prizes | Individual builders, students and startup teams; virtual, up to 20,000 accepted | Yes | [Apply](https://cerebralvalley.ai/e/meta-ai-developer-hackathon) |
 | 26 Oct 2026 (6 days) | **Build With AI: Basics** (Devpost) | $2,500 in cash, $1,250 first prize | Anyone of legal age, solo or team, online and beginner friendly; build a small working app with a coding agent | Yes | [Apply](https://learn-ai-basics.devpost.com/) |
@@ -49,6 +51,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
+| Rolling | **Z Fellows** (Z Fellows) | Optional $10,000 investment at a $1B cap, one-week program | Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC | Yes | [Apply](https://www.zfellows.com/) |
 | Rolling | **Thiel Fellowship** (Thiel Foundation) | $250,000 over two years, no equity | Anyone 22 or younger without a university degree who wants to build instead of attending college | Unclear | [Apply](https://thielfellowship.org/) |
 
 ---

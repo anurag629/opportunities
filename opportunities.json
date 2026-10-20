@@ -12,6 +12,17 @@
   },
   {
     "deadline": "2026-10-25",
+    "title": "IEEE ClimateChain Global Hackathon",
+    "org": "IEEE Blockchain Committee and IEEE Turkey",
+    "kind": "hackathon",
+    "amount": "$3,000 in cash ($1,500 first prize) plus IEEE certificates",
+    "who": "Students, researchers, independent developers and startups, teams of 2 to 5 or solo, online; AI and blockchain for climate",
+    "india": "unclear",
+    "link": "https://ieee-climatechain-hack.devpost.com/",
+    "checked": "2026-10-20"
+  },
+  {
+    "deadline": "2026-10-25",
     "title": "Meta Global AI Developer Hackathon",
     "org": "Meta and Cerebral Valley",
     "kind": "hackathon",

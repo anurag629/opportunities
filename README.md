@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 21 Oct 2026 · 26 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 21 Oct 2026 · 27 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -37,6 +37,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 30 Oct 2026 (9 days) | **Hertz Fellowship 2027** (Fannie and John Hertz Foundation) | Up to five years of PhD funding, valued at up to $250,000 | US citizens or permanent residents who will be first- or second-year PhD students in applied science, maths or engineering in fall 2027 | No | [Apply](http://fellowship.hertzfoundation.org/apply) |
 | 30 Oct 2026 (9 days) | **Nebius x NVIDIA Global AI Hackathon** (Nebius and NVIDIA) | $50,000 in prizes | Individuals of legal age, teams or organizations, online; build on Nebius AI Cloud or Token Factory with an NVIDIA open model | Yes | [Apply](https://nebiusglobalaihackathon.devpost.com/) |
 | 30 Oct 2026 (9 days) | **Qloo Agentic Hackathon** (Qloo) | $25,000 in prizes | Individuals of legal age, teams or organizations, online; build an agentic app that uses the Qloo API | Yes | [Apply](https://qloo.devpost.com/) |
+| 1 Nov 2026 (11 days) | **Processing Foundation Fellowship 2027** (Processing Foundation) | $10,000 stipend over an 8-month fellowship | US-based artists and developers in open source creative code; self-nominations allowed | No | [Apply](https://docs.google.com/forms/d/e/1FAIpQLScsJEntZjZEEgSTImwD-XTM6wZkc2XjpglYWXAOg69eZOiruw/viewform) |
 | 1 Nov 2026 (11 days) | **a16z speedrun SR008** (Andreessen Horowitz (a16z)) | Up to $1M investment plus $10M+ in partner credits | Very early founders, solo founders and students welcome; 12 weeks in person in San Francisco | Yes | [Apply](https://speedrun.a16z.com/apply) |
 | 2 Nov 2026 (12 days) | **ARC Prize 2026** (ARC Prize Foundation) | $2M in total prizes | Anyone on Kaggle; solutions must be open-sourced, no internet or API models during evaluation | Unclear | [Apply](https://arcprize.org/competitions/2026/) |
 | 2 Nov 2026 (12 days) | **Y Combinator Winter 2027 batch** (Y Combinator) | $500,000 investment | Any startup, anywhere in the world; YC helps with visas and incorporation | Yes | [Apply](https://www.ycombinator.com/apply) |

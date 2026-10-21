@@ -133,6 +133,17 @@
   },
   {
     "deadline": "2026-11-01",
+    "title": "Processing Foundation Fellowship 2027",
+    "org": "Processing Foundation",
+    "kind": "fellowship",
+    "amount": "$10,000 stipend over an 8-month fellowship",
+    "who": "US-based artists and developers in open source creative code; self-nominations allowed",
+    "india": "no",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLScsJEntZjZEEgSTImwD-XTM6wZkc2XjpglYWXAOg69eZOiruw/viewform",
+    "checked": "2026-10-21"
+  },
+  {
+    "deadline": "2026-11-01",
     "title": "a16z speedrun SR008",
     "org": "Andreessen Horowitz (a16z)",
     "kind": "accelerator",

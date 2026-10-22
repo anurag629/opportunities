@@ -114,11 +114,11 @@
     "title": "Nebius x NVIDIA Global AI Hackathon",
     "org": "Nebius and NVIDIA",
     "kind": "hackathon",
-    "amount": "$50,000 in prizes",
+    "amount": "$50,000 in prizes, $20,000 grand prize",
     "who": "Individuals of legal age, teams or organizations, online; build on Nebius AI Cloud or Token Factory with an NVIDIA open model",
     "india": "yes",
     "link": "https://nebiusglobalaihackathon.devpost.com/",
-    "checked": "2026-10-18"
+    "checked": "2026-10-22"
   },
   {
     "deadline": "2026-10-30",
@@ -265,6 +265,17 @@
   },
   {
     "deadline": "2026-11-25",
+    "title": "Gemma 4 Developer Agent Competition",
+    "org": "Google DeepMind (Kaggle)",
+    "kind": "competition",
+    "amount": "$110,000 total, $37,000 first place, $35,000 paper award",
+    "who": "Anyone 18+ on Kaggle, solo or team; post-train Gemma 4 into an offline coding agent. Final submission December 2",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
+    "checked": "2026-10-22"
+  },
+  {
+    "deadline": "2026-11-25",
     "title": "HackWithAditya",
     "org": "Aditya University",
     "kind": "hackathon",
@@ -273,6 +284,28 @@
     "india": "yes",
     "link": "https://hackwithaditya.devpost.com/",
     "checked": "2026-10-18"
+  },
+  {
+    "deadline": "2026-12-07",
+    "title": "Enveda CASMI 2026: Molecule ID From Mass Spectra",
+    "org": "Enveda Therapeutics (Kaggle)",
+    "kind": "competition",
+    "amount": "$50,000 in prizes, $16,000 first place",
+    "who": "Anyone 18+ on Kaggle, solo or team; predict natural product structures from mass spectra. Final submission Dec 14",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
+    "checked": "2026-10-22"
+  },
+  {
+    "deadline": "2027-01-06",
+    "title": "NFL Big Data Bowl 2027",
+    "org": "National Football League (Kaggle)",
+    "kind": "competition",
+    "amount": "$100,000 total, $10,000 to each of 6 finalists, plus a $10,000 grand prize",
+    "who": "Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
+    "checked": "2026-10-22"
   },
   {
     "deadline": "rolling",

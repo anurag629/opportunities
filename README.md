@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 23 Oct 2026 · 31 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 23 Oct 2026 · 32 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -51,6 +51,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 9 Nov 2026 (17 days) | **Learn AR with SPECS** (Snap Inc.) | $2,500 in cash, $1,250 first prize | Individuals of legal age, teams or organizations, online; design an AR app for glasses and build it in Lens Studio, no glasses needed | Yes | [Apply](https://learn-specs.devpost.com/) |
 | 12 Nov 2026 (20 days) | **PayPal AI Hackathon** (PayPal) | $67,500 in cash, $12,000 first prize | Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI | Yes | [Apply](https://paypalaihackathon.devpost.com/) |
 | 15 Nov 2026 (23 days) | **Code for a Billion: Bharat Agentic-AI Hackathon** (Code for India) | Rs 1,50,000 first prize per track; Rs 18 lakh total | Students, professionals and indie developers, solo or teams, anywhere; open-source agents for public-impact areas | Yes | [Apply](https://codeforindia.org/hackathon) |
+| 15 Nov 2026 (23 days) | **UGREEN Hackathon 2026 on AI NAS** (UGREEN) | $46,000 in prizes | Adults, solo or teams of up to 3, online; build on UGOS for UGREEN's AI NAS. Companies and many countries excluded | No | [Apply](https://ugreenhackathon.devpost.com/) |
 | 18 Nov 2026 (26 days) | **Meta VR Start Developer Competition 2026** (Meta) | $1M in cash prizes, 20 awards, $100,000 top prize in each track | Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program | Yes | [Apply](https://start-developer-competition-26.devpost.com/) |
 | 22 Nov 2026 (30 days) | **Tarbell Fellowship 2027-28** (Tarbell Center for AI Journalism) | $75,000 to $120,000 salary ($115,000 to $135,000 for senior fellows) | Journalists and AI experts covering AI, 18+ by June 7, 2027, no degree required; placements in partner newsrooms in the US, UK and Hong Kong | Unclear | [Apply](https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form) |
 | 25 Nov 2026 (33 days) | **Gemma 4 Developer Agent Competition** (Google DeepMind (Kaggle)) | $110,000 total, $37,000 first place, $35,000 paper award | Anyone 18+ on Kaggle, solo or team; post-train Gemma 4 into an offline coding agent. Final submission December 2 | Yes | [Apply](https://www.kaggle.com/competitions/gemma-4-developer-agent) |

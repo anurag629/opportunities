@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 24 Oct 2026 · 32 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 24 Oct 2026 · 33 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -54,6 +54,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 22 Nov 2026 (29 days) | **Tarbell Fellowship 2027-28** (Tarbell Center for AI Journalism) | $75,000 to $120,000 salary ($115,000 to $135,000 for senior fellows) | Journalists and AI experts covering AI, 18+ by June 7, 2027, no degree required; placements in partner newsrooms in the US, UK and Hong Kong | Unclear | [Apply](https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form) |
 | 25 Nov 2026 (32 days) | **Gemma 4 Developer Agent Competition** (Google DeepMind (Kaggle)) | $110,000 total, $37,000 first place, $35,000 paper award | Anyone 18+ on Kaggle, solo or team; post-train Gemma 4 into an offline coding agent. Final submission December 2 | Yes | [Apply](https://www.kaggle.com/competitions/gemma-4-developer-agent) |
 | 25 Nov 2026 (32 days) | **HackWithAditya** (Aditya University) | Rs 5,00,000 prize pool | College and university students across India, teams of 4 to 6; finals in person at Aditya University, Andhra Pradesh, 18 to 20 December | Yes | [Apply](https://hackwithaditya.devpost.com/) |
+| 30 Nov 2026 (37 days) | **EasyEDA Spark 2026** (EasyEDA and JLC) | $85,000 prize pool, up to $30,000 for the top project | Anyone 16+; hardware designed in EasyEDA Pro, made through JLC and published on OSHWLab. Projects due December 31 | Yes | [Apply](https://jlc3dp.com/news/easyeda-spark-contest) |
 | 4 Dec 2026 (41 days) | **Kiroween 2026** (Kiro) | $100,000 in cash | Anyone above the age of majority, online; Halloween-themed build with Kiro. Full rules not yet posted | Yes | [Apply](https://kiroween.devpost.com/) |
 | 7 Dec 2026 (44 days) | **Enveda CASMI 2026: Molecule ID From Mass Spectra** (Enveda Therapeutics (Kaggle)) | $50,000 in prizes, $16,000 first place | Anyone 18+ on Kaggle, solo or team; predict natural product structures from mass spectra. Final submission Dec 14 | Yes | [Apply](https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra) |
 | 6 Jan 2027 (74 days) | **NFL Big Data Bowl 2027** (National Football League (Kaggle)) | $100,000 total, $10,000 to each of 6 finalists, plus a $10,000 grand prize | Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data | Yes | [Apply](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027) |

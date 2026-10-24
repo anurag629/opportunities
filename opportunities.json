@@ -297,6 +297,17 @@
     "checked": "2026-10-18"
   },
   {
+    "deadline": "2026-11-30",
+    "title": "EasyEDA Spark 2026",
+    "org": "EasyEDA and JLC",
+    "kind": "competition",
+    "amount": "$85,000 prize pool, up to $30,000 for the top project",
+    "who": "Anyone 16+; hardware designed in EasyEDA Pro, made through JLC and published on OSHWLab. Projects due December 31",
+    "india": "yes",
+    "link": "https://jlc3dp.com/news/easyeda-spark-contest",
+    "checked": "2026-10-24"
+  },
+  {
     "deadline": "2026-12-04",
     "title": "Kiroween 2026",
     "org": "Kiro",

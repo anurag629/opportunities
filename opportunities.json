@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-10-23",
-    "title": "Build, Ship, Shape: Amazon Developer Hackathon 2026",
-    "org": "Amazon Developer",
-    "kind": "hackathon",
-    "amount": "$25,000 cash plus $15,000 AWS credits for each track winner",
-    "who": "Individuals, teams and organizations, online; tracks for Fire TV, Alexa+, Bee, Ring and AWS",
-    "india": "yes",
-    "link": "https://amazonappdev2026.devpost.com/",
-    "checked": "2026-10-14"
-  },
-  {
-    "deadline": "2026-10-23",
-    "title": "Neighborhood Hacks 2026",
-    "org": "Neighborhood Hacks",
-    "kind": "hackathon",
-    "amount": "$57,866 in listed prize value, mostly software credits",
-    "who": "High school students (or equivalent), ages 13 to 21, worldwide, online; build a project that supports your local community",
-    "india": "yes",
-    "link": "https://neighborhood-hacks-2026.devpost.com/",
-    "checked": "2026-10-20"
-  },
-  {
     "deadline": "2026-10-25",
     "title": "IEEE ClimateChain Global Hackathon",
     "org": "IEEE Blockchain Committee and IEEE Turkey",
@@ -166,6 +144,17 @@
   },
   {
     "deadline": "2026-11-02",
+    "title": "Codex x TwitchCon Hackathon",
+    "org": "Twitch and OpenAI",
+    "kind": "hackathon",
+    "amount": "$25,000 in cash, $10,000 first prize, top 5 shown on stage at TwitchCon",
+    "who": "Individuals 18+ and teams, online; build for Twitch streamers and their community with OpenAI Codex. Organizations excluded",
+    "india": "yes",
+    "link": "https://twitchcon-codex.devpost.com/",
+    "checked": "2026-10-24"
+  },
+  {
+    "deadline": "2026-11-02",
     "title": "Y Combinator Winter 2027 batch",
     "org": "Y Combinator",
     "kind": "accelerator",
@@ -196,6 +185,17 @@
     "india": "unclear",
     "link": "https://nlnet.nl/propose/",
     "checked": "2026-10-16"
+  },
+  {
+    "deadline": "2026-11-06",
+    "title": "Since AI Hackathon 2026",
+    "org": "Since AI",
+    "kind": "hackathon",
+    "amount": "€50,000 in cash prizes, free to enter",
+    "who": "Developers, researchers and entrepreneurs worldwide; 48 hours in person in Turku, Finland, November 6 to 8, on 15 company challenges",
+    "india": "yes",
+    "link": "https://sinceai.ai/hackathon",
+    "checked": "2026-10-24"
   },
   {
     "deadline": "2026-11-09",

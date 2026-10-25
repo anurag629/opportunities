@@ -23,6 +23,17 @@
   },
   {
     "deadline": "2026-10-26",
+    "title": "ARC Prize 2026",
+    "org": "ARC Prize Foundation",
+    "kind": "competition",
+    "amount": "$2M in total prizes",
+    "who": "Anyone on Kaggle; open-source solutions, no internet or APIs in evaluation. Entry closes Oct 26, final Nov 2",
+    "india": "unclear",
+    "link": "https://arcprize.org/competitions/2026/",
+    "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2026-10-26",
     "title": "Build With AI: Basics",
     "org": "Devpost",
     "kind": "hackathon",
@@ -133,17 +144,6 @@
   },
   {
     "deadline": "2026-11-02",
-    "title": "ARC Prize 2026",
-    "org": "ARC Prize Foundation",
-    "kind": "competition",
-    "amount": "$2M in total prizes",
-    "who": "Anyone on Kaggle; solutions must be open-sourced, no internet or API models during evaluation",
-    "india": "unclear",
-    "link": "https://arcprize.org/competitions/2026/",
-    "checked": "2026-10-14"
-  },
-  {
-    "deadline": "2026-11-02",
     "title": "Codex x TwitchCon Hackathon",
     "org": "Twitch and OpenAI",
     "kind": "hackathon",
@@ -151,7 +151,7 @@
     "who": "Individuals 18+ and teams, online; build for Twitch streamers and their community with OpenAI Codex. Organizations excluded",
     "india": "yes",
     "link": "https://twitchcon-codex.devpost.com/",
-    "checked": "2026-10-24"
+    "checked": "2026-10-25"
   },
   {
     "deadline": "2026-11-02",
@@ -261,7 +261,7 @@
     "who": "Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program",
     "india": "yes",
     "link": "https://start-developer-competition-26.devpost.com/",
-    "checked": "2026-10-17"
+    "checked": "2026-10-25"
   },
   {
     "deadline": "2026-11-22",
@@ -283,7 +283,7 @@
     "who": "Anyone 18+ on Kaggle, solo or team; post-train Gemma 4 into an offline coding agent. Final submission December 2",
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
-    "checked": "2026-10-22"
+    "checked": "2026-10-25"
   },
   {
     "deadline": "2026-11-25",
@@ -305,7 +305,7 @@
     "who": "Anyone 16+; hardware designed in EasyEDA Pro, made through JLC and published on OSHWLab. Projects due December 31",
     "india": "yes",
     "link": "https://jlc3dp.com/news/easyeda-spark-contest",
-    "checked": "2026-10-24"
+    "checked": "2026-10-25"
   },
   {
     "deadline": "2026-12-04",
@@ -338,7 +338,40 @@
     "who": "Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data",
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/nfl-big-data-bowl-2027",
-    "checked": "2026-10-22"
+    "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2027-01-06",
+    "title": "Name That LLM",
+    "org": "Kaggle",
+    "kind": "competition",
+    "amount": "$50,000, $5,000 each to the top 10",
+    "who": "Anyone 18+ on Kaggle, solo or team; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/name-that-llm",
+    "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2027-01-13",
+    "title": "Google Quantum AI: Verifiable Quantum Circuit Compilation",
+    "org": "Google Quantum AI (Kaggle)",
+    "kind": "competition",
+    "amount": "$150,000 total, $50,000 first place",
+    "who": "Anyone 18+ on Kaggle; shrink quantum circuits with AI coding agents, no physics background needed. Final submission Jan 20",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
+    "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2027-07-11",
+    "title": "Squares in Squares",
+    "org": "Kaggle",
+    "kind": "competition",
+    "amount": "$50,000 total, $12,000 first place, milestone prizes",
+    "who": "Anyone 18+ on Kaggle; pack unit squares into the smallest square, a 9-month open maths problem",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/squares-in-squares",
+    "checked": "2026-10-25"
   },
   {
     "deadline": "rolling",

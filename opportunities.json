@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-10-25",
-    "title": "IEEE ClimateChain Global Hackathon",
-    "org": "IEEE Blockchain Committee and IEEE Turkey",
-    "kind": "hackathon",
-    "amount": "$3,000 in cash ($1,500 first prize) plus IEEE certificates",
-    "who": "Students, researchers, independent developers and startups, teams of 2 to 5 or solo, online; AI and blockchain for climate",
-    "india": "unclear",
-    "link": "https://ieee-climatechain-hack.devpost.com/",
-    "checked": "2026-10-20"
-  },
-  {
-    "deadline": "2026-10-25",
-    "title": "Meta Global AI Developer Hackathon",
-    "org": "Meta and Cerebral Valley",
-    "kind": "hackathon",
-    "amount": "$1,000,000 in total prizes",
-    "who": "Individual builders, students and startup teams; virtual, up to 20,000 accepted",
-    "india": "yes",
-    "link": "https://cerebralvalley.ai/e/meta-ai-developer-hackathon",
-    "checked": "2026-10-14"
-  },
-  {
     "deadline": "2026-10-26",
     "title": "ARC Prize 2026",
     "org": "ARC Prize Foundation",
@@ -151,7 +129,7 @@
     "who": "Individuals 18+ and teams, online; build for Twitch streamers and their community with OpenAI Codex. Organizations excluded",
     "india": "yes",
     "link": "https://twitchcon-codex.devpost.com/",
-    "checked": "2026-10-25"
+    "checked": "2026-10-26"
   },
   {
     "deadline": "2026-11-02",
@@ -220,6 +198,17 @@
     "checked": "2026-10-18"
   },
   {
+    "deadline": "2026-11-10",
+    "title": "HERHACK 2026",
+    "org": "IEEE EIT Student Branch WIE, Echelon Institute of Technology",
+    "kind": "hackathon",
+    "amount": "Rs 2,00,000 total prize pool, free registration",
+    "who": "Students aged 17+, teams of 2 to 5; submit online by November 10, 36-hour finale November 20 to 21 in Faridabad, Haryana",
+    "india": "yes",
+    "link": "https://herhack.devpost.com/",
+    "checked": "2026-10-26"
+  },
+  {
     "deadline": "2026-11-12",
     "title": "PayPal AI Hackathon",
     "org": "PayPal",
@@ -262,6 +251,17 @@
     "india": "yes",
     "link": "https://start-developer-competition-26.devpost.com/",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "Internet Society Fellowship Program 2027",
+    "org": "Internet Society",
+    "kind": "fellowship",
+    "amount": "Up to $5,000 project stipend, a mentor and event travel support",
+    "who": "Internet changemakers with a local project; finish free self-paced training by Nov 22, then apply by Dec 18",
+    "india": "unclear",
+    "link": "https://www.internetsociety.org/fellowship/",
+    "checked": "2026-10-26"
   },
   {
     "deadline": "2026-11-22",
@@ -313,10 +313,10 @@
     "org": "Kiro",
     "kind": "hackathon",
     "amount": "$100,000 in cash",
-    "who": "Anyone above the age of majority, online; Halloween-themed build with Kiro. Full rules not yet posted",
+    "who": "Anyone above the age of majority, online; Halloween-themed build with Kiro. Full rules land October 30",
     "india": "yes",
     "link": "https://kiroween.devpost.com/",
-    "checked": "2026-10-23"
+    "checked": "2026-10-26"
   },
   {
     "deadline": "2026-12-07",
@@ -328,6 +328,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
     "checked": "2026-10-22"
+  },
+  {
+    "deadline": "2026-12-20",
+    "title": "Arbiter Hacks V1",
+    "org": "Arbiter",
+    "kind": "hackathon",
+    "amount": "$7,800 in cash across a General track and a Rethinking Waste theme track",
+    "who": "Students aged 13+, solo or teams of 1 to 4, online; companies excluded",
+    "india": "yes",
+    "link": "https://arbiter-hacks-v1.devpost.com/",
+    "checked": "2026-10-26"
   },
   {
     "deadline": "2027-01-06",

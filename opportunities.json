@@ -143,6 +143,17 @@
     "checked": "2026-10-24"
   },
   {
+    "deadline": "2026-11-08",
+    "title": "Vultr: Agent Rush Hackathon",
+    "org": "Vultr and lablab.ai",
+    "kind": "hackathon",
+    "amount": "$9,000 in cash ($5,000 first prize) plus $5,000 in Vultr credits",
+    "who": "Everyone, any level, teams of 1 to 6; online build Nov 3 to 8, optional on-site showcase in Salt Lake City",
+    "india": "unclear",
+    "link": "https://lablab.ai/ai-hackathons/vultr-hackathon",
+    "checked": "2026-10-27"
+  },
+  {
     "deadline": "2026-11-09",
     "title": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships, 3rd call",
     "org": "EPFL AI Center",
@@ -185,6 +196,17 @@
     "india": "yes",
     "link": "https://paypalaihackathon.devpost.com/",
     "checked": "2026-10-19"
+  },
+  {
+    "deadline": "2026-11-14",
+    "title": "AMD AI League",
+    "org": "AMD and lablab.ai",
+    "kind": "competition",
+    "amount": "$5,000 cash podium ($2,500 first), $500 cash per match win",
+    "who": "Individuals only, online, join any day; AMD GPUs provided in hosted notebooks; league prizes need 5 Academy courses finished",
+    "india": "unclear",
+    "link": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
+    "checked": "2026-10-27"
   },
   {
     "deadline": "2026-11-15",
@@ -335,10 +357,10 @@
     "org": "Google Quantum AI (Kaggle)",
     "kind": "competition",
     "amount": "$150,000 total, $50,000 first place",
-    "who": "Anyone 18+ on Kaggle; shrink quantum circuits with AI coding agents, no physics background needed. Final submission Jan 20",
+    "who": "Anyone 18+ on Kaggle, teams up to 5; shrink quantum circuits with AI agents, no physics needed",
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
-    "checked": "2026-10-25"
+    "checked": "2026-10-27"
   },
   {
     "deadline": "2027-07-11",
@@ -350,6 +372,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "GitHub Secure Open Source Fund",
+    "org": "GitHub",
+    "kind": "grant",
+    "amount": "$10,000 per project, paid in three parts, plus security training",
+    "who": "Current maintainers of open source projects, 18+, with a GitHub profile, located in a region GitHub Sponsors supports",
+    "india": "yes",
+    "link": "https://github.com/open-source/github-secure-open-source-fund",
+    "checked": "2026-10-27"
   },
   {
     "deadline": "rolling",

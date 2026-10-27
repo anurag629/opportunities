@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 27 Oct 2026 · 34 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 27 Oct 2026 · 37 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -42,10 +42,12 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 2 Nov 2026 (6 days) | **YouCam API Skin AI & eCommerce VTO Hackathon** (Perfect Corp (YouCam)) | $6,000 in cash, $2,500 first prize, plus a student-only $1,000 award | Individuals of legal age, teams or organizations, online; build a web or mobile prototype with the YouCam API | Yes | [Apply](https://youcam-api-skin-ai-ecommerce.devpost.com/) |
 | 3 Nov 2026 (7 days) | **NLnet open source grants, November call** (NLnet Foundation) | €5,000 to €50,000 for a first grant | Builders of open source software, hardware or content; EU-backed funds need a strong European dimension | Unclear | [Apply](https://nlnet.nl/propose/) |
 | 6 Nov 2026 (10 days) | **Since AI Hackathon 2026** (Since AI) | €50,000 in cash prizes, free to enter | Developers, researchers and entrepreneurs worldwide; 48 hours in person in Turku, Finland, November 6 to 8, on 15 company challenges | Yes | [Apply](https://sinceai.ai/hackathon) |
+| 8 Nov 2026 (12 days) | **Vultr: Agent Rush Hackathon** (Vultr and lablab.ai) | $9,000 in cash ($5,000 first prize) plus $5,000 in Vultr credits | Everyone, any level, teams of 1 to 6; online build Nov 3 to 8, optional on-site showcase in Salt Lake City | Unclear | [Apply](https://lablab.ai/ai-hackathons/vultr-hackathon) |
 | 9 Nov 2026 (13 days) | **EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships, 3rd call** (EPFL AI Center) | About 50% of a postdoc salary plus up to CHF 5,000 a year for research costs | Postdocs with a PhD from the last two years, or final-year PhD students, any nationality; needs two EPFL AI Center host professors | Yes | [Apply](https://www.epfl.ch/research/funding/epfl-programmes/ai-center/) |
 | 9 Nov 2026 (13 days) | **Learn AR with SPECS** (Snap Inc.) | $2,500 in cash, $1,250 first prize | Individuals of legal age, teams or organizations, online; design an AR app for glasses and build it in Lens Studio, no glasses needed | Yes | [Apply](https://learn-specs.devpost.com/) |
 | 10 Nov 2026 (14 days) | **HERHACK 2026** (IEEE EIT Student Branch WIE, Echelon Institute of Technology) | Rs 2,00,000 total prize pool, free registration | Students aged 17+, teams of 2 to 5; submit online by November 10, 36-hour finale November 20 to 21 in Faridabad, Haryana | Yes | [Apply](https://herhack.devpost.com/) |
 | 12 Nov 2026 (16 days) | **PayPal AI Hackathon** (PayPal) | $67,500 in cash, $12,000 first prize | Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI | Yes | [Apply](https://paypalaihackathon.devpost.com/) |
+| 14 Nov 2026 (18 days) | **AMD AI League** (AMD and lablab.ai) | $5,000 cash podium ($2,500 first), $500 cash per match win | Individuals only, online, join any day; AMD GPUs provided in hosted notebooks; league prizes need 5 Academy courses finished | Unclear | [Apply](https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge) |
 | 15 Nov 2026 (19 days) | **Code for a Billion: Bharat Agentic-AI Hackathon** (Code for India) | Rs 1,50,000 first prize per track; Rs 18 lakh total | Students, professionals and indie developers, solo or teams, anywhere; open-source agents for public-impact areas | Yes | [Apply](https://codeforindia.org/hackathon) |
 | 15 Nov 2026 (19 days) | **UGREEN Hackathon 2026 on AI NAS** (UGREEN) | $46,000 in prizes | Adults, solo or teams of up to 3, online; build on UGOS for UGREEN's AI NAS. Companies and many countries excluded | No | [Apply](https://ugreenhackathon.devpost.com/) |
 | 18 Nov 2026 (22 days) | **Meta VR Start Developer Competition 2026** (Meta) | $1M in cash prizes, 20 awards, $100,000 top prize in each track | Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program | Yes | [Apply](https://start-developer-competition-26.devpost.com/) |
@@ -59,13 +61,14 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 20 Dec 2026 (54 days) | **Arbiter Hacks V1** (Arbiter) | $7,800 in cash across a General track and a Rethinking Waste theme track | Students aged 13+, solo or teams of 1 to 4, online; companies excluded | Yes | [Apply](https://arbiter-hacks-v1.devpost.com/) |
 | 6 Jan 2027 (71 days) | **NFL Big Data Bowl 2027** (National Football League (Kaggle)) | $100,000 total, $10,000 to each of 6 finalists, plus a $10,000 grand prize | Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data | Yes | [Apply](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027) |
 | 6 Jan 2027 (71 days) | **Name That LLM** (Kaggle) | $50,000, $5,000 each to the top 10 | Anyone 18+ on Kaggle, solo or team; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027 | Yes | [Apply](https://www.kaggle.com/competitions/name-that-llm) |
-| 13 Jan 2027 (78 days) | **Google Quantum AI: Verifiable Quantum Circuit Compilation** (Google Quantum AI (Kaggle)) | $150,000 total, $50,000 first place | Anyone 18+ on Kaggle; shrink quantum circuits with AI coding agents, no physics background needed. Final submission Jan 20 | Yes | [Apply](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) |
+| 13 Jan 2027 (78 days) | **Google Quantum AI: Verifiable Quantum Circuit Compilation** (Google Quantum AI (Kaggle)) | $150,000 total, $50,000 first place | Anyone 18+ on Kaggle, teams up to 5; shrink quantum circuits with AI agents, no physics needed | Yes | [Apply](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) |
 | 11 Jul 2027 (257 days) | **Squares in Squares** (Kaggle) | $50,000 total, $12,000 first place, milestone prizes | Anyone 18+ on Kaggle; pack unit squares into the smallest square, a 9-month open maths problem | Yes | [Apply](https://www.kaggle.com/competitions/squares-in-squares) |
 
 ## Rolling (no fixed deadline)
 
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
+| Rolling | **GitHub Secure Open Source Fund** (GitHub) | $10,000 per project, paid in three parts, plus security training | Current maintainers of open source projects, 18+, with a GitHub profile, located in a region GitHub Sponsors supports | Yes | [Apply](https://github.com/open-source/github-secure-open-source-fund) |
 | Rolling | **Thiel Fellowship** (Thiel Foundation) | $250,000 over two years, no equity | Anyone 22 or younger without a university degree who wants to build instead of attending college | Unclear | [Apply](https://thielfellowship.org/) |
 | Rolling | **Z Fellows** (Z Fellows) | Optional $10,000 investment at a $1B cap, one-week program | Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC | Yes | [Apply](https://www.zfellows.com/) |
 

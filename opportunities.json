@@ -1,38 +1,5 @@
 [
   {
-    "deadline": "2026-10-26",
-    "title": "ARC Prize 2026",
-    "org": "ARC Prize Foundation",
-    "kind": "competition",
-    "amount": "$2M in total prizes",
-    "who": "Anyone on Kaggle; open-source solutions, no internet or APIs in evaluation. Entry closes Oct 26, final Nov 2",
-    "india": "unclear",
-    "link": "https://arcprize.org/competitions/2026/",
-    "checked": "2026-10-25"
-  },
-  {
-    "deadline": "2026-10-26",
-    "title": "Build With AI: Basics",
-    "org": "Devpost",
-    "kind": "hackathon",
-    "amount": "$2,500 in cash, $1,250 first prize",
-    "who": "Anyone of legal age, solo or team, online and beginner friendly; build a small working app with a coding agent",
-    "india": "yes",
-    "link": "https://learn-ai-basics.devpost.com/",
-    "checked": "2026-10-19"
-  },
-  {
-    "deadline": "2026-10-26",
-    "title": "OpenCV AI Competition 2026, powered by AWS",
-    "org": "OpenCV and AWS",
-    "kind": "competition",
-    "amount": "$5,000 first prize; up to $12,000 in cash awards",
-    "who": "Anyone above the age of majority, teams of 1 to 5, online; must use OpenCV 5 and AWS",
-    "india": "yes",
-    "link": "https://opencv26.devpost.com/",
-    "checked": "2026-10-15"
-  },
-  {
     "deadline": "2026-10-27",
     "title": "GitLab Transcend: Life After Code Hackathon",
     "org": "GitLab",

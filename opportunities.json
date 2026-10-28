@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-10-27",
-    "title": "GitLab Transcend: Life After Code Hackathon",
-    "org": "GitLab",
-    "kind": "hackathon",
-    "amount": "$45,000 in cash",
-    "who": "Individuals of legal age, teams or organizations, online; build with GitLab Duo Agent Platform",
-    "india": "yes",
-    "link": "https://gitlab-transcend.devpost.com/",
-    "checked": "2026-10-18"
-  },
-  {
     "deadline": "2026-10-28",
     "title": "AWS Communication Developer Services Agentic AI Partner Hackathon",
     "org": "Amazon Web Services",
@@ -330,6 +319,17 @@
     "checked": "2026-10-26"
   },
   {
+    "deadline": "2026-12-22",
+    "title": "Codegeist 2026",
+    "org": "Atlassian",
+    "kind": "hackathon",
+    "amount": "$120,000 in prizes; $15,000 first place in each of 3 categories",
+    "who": "Individuals of age of majority, teams and organizations, online; build a Forge app on Jira, Confluence, Bitbucket or Rovo",
+    "india": "yes",
+    "link": "https://codegeist2026.devpost.com/",
+    "checked": "2026-10-28"
+  },
+  {
     "deadline": "2027-01-06",
     "title": "NFL Big Data Bowl 2027",
     "org": "National Football League (Kaggle)",
@@ -372,6 +372,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Sequoia Open Source Fellowship",
+    "org": "Sequoia Capital",
+    "kind": "fellowship",
+    "amount": "Living expenses covered for 6 to 12 months, no equity",
+    "who": "Open source creators whose projects have real-world adoption; location agnostic",
+    "india": "yes",
+    "link": "https://sequoiacap.com/oss",
+    "checked": "2026-10-28"
   },
   {
     "deadline": "rolling",

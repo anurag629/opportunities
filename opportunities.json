@@ -386,6 +386,17 @@
   },
   {
     "deadline": "rolling",
+    "title": "Claude Corps Fellowship, cohort 3",
+    "org": "Anthropic and CodePath",
+    "kind": "fellowship",
+    "amount": "$85,000 salary plus benefits for 12 months at a US nonprofit",
+    "who": "18+, early career (under two years full-time work), authorized to work in the US without sponsorship, willing to relocate; no degree needed",
+    "india": "no",
+    "link": "https://anthropic.com/claude-corps/fellow",
+    "checked": "2026-10-28"
+  },
+  {
+    "deadline": "rolling",
     "title": "GitHub Secure Open Source Fund",
     "org": "GitHub",
     "kind": "grant",

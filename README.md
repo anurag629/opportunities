@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 28 Oct 2026 · 38 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 28 Oct 2026 · 39 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -68,6 +68,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
 | Rolling | **Sequoia Open Source Fellowship** (Sequoia Capital) | Living expenses covered for 6 to 12 months, no equity | Open source creators whose projects have real-world adoption; location agnostic | Yes | [Apply](https://sequoiacap.com/oss) |
+| Rolling | **Claude Corps Fellowship, cohort 3** (Anthropic and CodePath) | $85,000 salary plus benefits for 12 months at a US nonprofit | 18+, early career (under two years full-time work), authorized to work in the US without sponsorship, willing to relocate; no degree needed | No | [Apply](https://anthropic.com/claude-corps/fellow) |
 | Rolling | **GitHub Secure Open Source Fund** (GitHub) | $10,000 per project, paid in three parts, plus security training | Current maintainers of open source projects, 18+, with a GitHub profile, located in a region GitHub Sponsors supports | Yes | [Apply](https://github.com/open-source/github-secure-open-source-fund) |
 | Rolling | **Thiel Fellowship** (Thiel Foundation) | $250,000 over two years, no equity | Anyone 22 or younger without a university degree who wants to build instead of attending college | Unclear | [Apply](https://thielfellowship.org/) |
 | Rolling | **Z Fellows** (Z Fellows) | Optional $10,000 investment at a $1B cap, one-week program | Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC | Yes | [Apply](https://www.zfellows.com/) |

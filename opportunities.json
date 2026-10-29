@@ -155,6 +155,17 @@
   },
   {
     "deadline": "2026-11-10",
+    "title": "DATANOVA 2026 Global Data-thon",
+    "org": "DataNova",
+    "kind": "hackathon",
+    "amount": "$1,750 in cash, $1,000 first prize",
+    "who": "Student teams, online; data and AI tracks. Round 1 due November 10, shortlisted teams present November 25",
+    "india": "yes",
+    "link": "https://datanova-2026-global-data-thon.devpost.com/",
+    "checked": "2026-10-29"
+  },
+  {
+    "deadline": "2026-11-10",
     "title": "HERHACK 2026",
     "org": "IEEE EIT Student Branch WIE, Echelon Institute of Technology",
     "kind": "hackathon",
@@ -372,6 +383,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
+    "org": "Ethereum Foundation",
+    "kind": "grant",
+    "amount": "Grant size set by scope, paid in ETH against milestones",
+    "who": "Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome",
+    "india": "unclear",
+    "link": "https://esp.ethereum.foundation/applicants",
+    "checked": "2026-10-29"
   },
   {
     "deadline": "rolling",

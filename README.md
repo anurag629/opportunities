@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 29 Oct 2026 · 39 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 29 Oct 2026 · 41 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -41,6 +41,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 8 Nov 2026 (10 days) | **Vultr: Agent Rush Hackathon** (Vultr and lablab.ai) | $9,000 in cash ($5,000 first prize) plus $5,000 in Vultr credits | Everyone, any level, teams of 1 to 6; online build Nov 3 to 8, optional on-site showcase in Salt Lake City | Unclear | [Apply](https://lablab.ai/ai-hackathons/vultr-hackathon) |
 | 9 Nov 2026 (11 days) | **EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships, 3rd call** (EPFL AI Center) | About 50% of a postdoc salary plus up to CHF 5,000 a year for research costs | Postdocs with a PhD from the last two years, or final-year PhD students, any nationality; needs two EPFL AI Center host professors | Yes | [Apply](https://www.epfl.ch/research/funding/epfl-programmes/ai-center/) |
 | 9 Nov 2026 (11 days) | **Learn AR with SPECS** (Snap Inc.) | $2,500 in cash, $1,250 first prize | Individuals of legal age, teams or organizations, online; design an AR app for glasses and build it in Lens Studio, no glasses needed | Yes | [Apply](https://learn-specs.devpost.com/) |
+| 10 Nov 2026 (12 days) | **DATANOVA 2026 Global Data-thon** (DataNova) | $1,750 in cash, $1,000 first prize | Student teams, online; data and AI tracks. Round 1 due November 10, shortlisted teams present November 25 | Yes | [Apply](https://datanova-2026-global-data-thon.devpost.com/) |
 | 10 Nov 2026 (12 days) | **HERHACK 2026** (IEEE EIT Student Branch WIE, Echelon Institute of Technology) | Rs 2,00,000 total prize pool, free registration | Students aged 17+, teams of 2 to 5; submit online by November 10, 36-hour finale November 20 to 21 in Faridabad, Haryana | Yes | [Apply](https://herhack.devpost.com/) |
 | 12 Nov 2026 (14 days) | **PayPal AI Hackathon** (PayPal) | $67,500 in cash, $12,000 first prize | Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI | Yes | [Apply](https://paypalaihackathon.devpost.com/) |
 | 14 Nov 2026 (16 days) | **AMD AI League** (AMD and lablab.ai) | $5,000 cash podium ($2,500 first), $500 cash per match win | Individuals only, online, join any day; AMD GPUs provided in hosted notebooks; league prizes need 5 Academy courses finished | Unclear | [Apply](https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge) |
@@ -66,6 +67,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
+| Rolling | **Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)** (Ethereum Foundation) | Grant size set by scope, paid in ETH against milestones | Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome | Unclear | [Apply](https://esp.ethereum.foundation/applicants) |
 | Rolling | **Sequoia Open Source Fellowship** (Sequoia Capital) | Living expenses covered for 6 to 12 months, no equity | Open source creators whose projects have real-world adoption; location agnostic | Yes | [Apply](https://sequoiacap.com/oss) |
 | Rolling | **Claude Corps Fellowship, cohort 3** (Anthropic and CodePath) | $85,000 salary plus benefits for 12 months at a US nonprofit | 18+, early career (under two years full-time work), authorized to work in the US without sponsorship, willing to relocate; no degree needed | No | [Apply](https://anthropic.com/claude-corps/fellow) |
 | Rolling | **GitHub Secure Open Source Fund** (GitHub) | $10,000 per project, paid in three parts, plus security training | Current maintainers of open source projects, 18+, with a GitHub profile, located in a region GitHub Sponsors supports | Yes | [Apply](https://github.com/open-source/github-secure-open-source-fund) |

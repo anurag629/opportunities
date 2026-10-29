@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-10-28",
-    "title": "AWS Communication Developer Services Agentic AI Partner Hackathon",
-    "org": "Amazon Web Services",
-    "kind": "hackathon",
-    "amount": "$40,000 in cash, $18,000 first prize",
-    "who": "Only people employed by or acting for an AWS Partner Network (APN) member organization; online",
-    "india": "yes",
-    "link": "https://aws-cds-partner.devpost.com/",
-    "checked": "2026-10-17"
-  },
-  {
     "deadline": "2026-10-30",
     "title": "Better Scientific Software (BSSw) Fellowship 2027",
     "org": "Consortium for the Advancement of Scientific Software (CASS)",
@@ -229,6 +218,17 @@
     "india": "yes",
     "link": "https://start-developer-competition-26.devpost.com/",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "2026-11-20",
+    "title": "Dakar Bitcoin Hack by BTrust",
+    "org": "BTrust",
+    "kind": "hackathon",
+    "amount": "$900 in BTC (500,000 sats first prize)",
+    "who": "Residents of Africa, online; build tools on Bitcoin, Lightning, nostr or AI for African users",
+    "india": "no",
+    "link": "https://dakar-bitcoin-hack-2026.devpost.com/",
+    "checked": "2026-10-29"
   },
   {
     "deadline": "2026-11-22",

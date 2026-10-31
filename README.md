@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 31 Oct 2026 · 40 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 31 Oct 2026 · 42 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -16,6 +16,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 1 Nov 2026 (1 days) | **The Steerability Challenge** (IBM Research, Tara Research and partners) | $40k+ in cash for the top three per track | Anyone, anywhere, teams of 2 to 5; steer LLMs to be less dishonest. Register by Nov 1, submit by Nov 21 | Yes | [Apply](https://tally.so/r/ZjBg10) |
 | 1 Nov 2026 (1 days) | **a16z speedrun SR008** (Andreessen Horowitz (a16z)) | Up to $1M investment plus $10M+ in partner credits | Very early founders, solo founders and students welcome; 12 weeks in person in San Francisco | Yes | [Apply](https://speedrun.a16z.com/apply) |
 | 2 Nov 2026 (2 days) | **Codex x TwitchCon Hackathon** (Twitch and OpenAI) | $25,000 in cash, $10,000 first prize, top 5 shown on stage at TwitchCon | Individuals 18+ and teams, online; build for Twitch streamers and their community with OpenAI Codex. Organizations excluded | Yes | [Apply](https://twitchcon-codex.devpost.com/) |
+| 2 Nov 2026 (2 days) | **Entrepreneurs First Bangalore, Winter 2027 cohort (second selection round)** (Entrepreneurs First) | Equity-free living grant, then up to $250,000 per team | Individuals ready to start a company now, before they have a cofounder or idea; full time and in person in Bangalore from February 2027 | Yes | [Apply](https://apply.joinef.com/app/bangalore-winter/) |
 | 2 Nov 2026 (2 days) | **Y Combinator Winter 2027 batch** (Y Combinator) | $500,000 investment | Any startup, anywhere in the world; YC helps with visas and incorporation | Yes | [Apply](https://www.ycombinator.com/apply) |
 | 2 Nov 2026 (2 days) | **YouCam API Skin AI & eCommerce VTO Hackathon** (Perfect Corp (YouCam)) | $6,000 in cash, $2,500 first prize, plus a student-only $1,000 award | Individuals of legal age, teams or organizations, online; build a web or mobile prototype with the YouCam API | Yes | [Apply](https://youcam-api-skin-ai-ecommerce.devpost.com/) |
 | 3 Nov 2026 (3 days) | **NLnet open source grants, November call** (NLnet Foundation) | €5,000 to €50,000 for a first grant | Builders of open source software, hardware or content; EU-backed funds need a strong European dimension | Unclear | [Apply](https://nlnet.nl/propose/) |
@@ -30,6 +31,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 1 Nov 2026 (1 days) | **The Steerability Challenge** (IBM Research, Tara Research and partners) | $40k+ in cash for the top three per track | Anyone, anywhere, teams of 2 to 5; steer LLMs to be less dishonest. Register by Nov 1, submit by Nov 21 | Yes | [Apply](https://tally.so/r/ZjBg10) |
 | 1 Nov 2026 (1 days) | **a16z speedrun SR008** (Andreessen Horowitz (a16z)) | Up to $1M investment plus $10M+ in partner credits | Very early founders, solo founders and students welcome; 12 weeks in person in San Francisco | Yes | [Apply](https://speedrun.a16z.com/apply) |
 | 2 Nov 2026 (2 days) | **Codex x TwitchCon Hackathon** (Twitch and OpenAI) | $25,000 in cash, $10,000 first prize, top 5 shown on stage at TwitchCon | Individuals 18+ and teams, online; build for Twitch streamers and their community with OpenAI Codex. Organizations excluded | Yes | [Apply](https://twitchcon-codex.devpost.com/) |
+| 2 Nov 2026 (2 days) | **Entrepreneurs First Bangalore, Winter 2027 cohort (second selection round)** (Entrepreneurs First) | Equity-free living grant, then up to $250,000 per team | Individuals ready to start a company now, before they have a cofounder or idea; full time and in person in Bangalore from February 2027 | Yes | [Apply](https://apply.joinef.com/app/bangalore-winter/) |
 | 2 Nov 2026 (2 days) | **Y Combinator Winter 2027 batch** (Y Combinator) | $500,000 investment | Any startup, anywhere in the world; YC helps with visas and incorporation | Yes | [Apply](https://www.ycombinator.com/apply) |
 | 2 Nov 2026 (2 days) | **YouCam API Skin AI & eCommerce VTO Hackathon** (Perfect Corp (YouCam)) | $6,000 in cash, $2,500 first prize, plus a student-only $1,000 award | Individuals of legal age, teams or organizations, online; build a web or mobile prototype with the YouCam API | Yes | [Apply](https://youcam-api-skin-ai-ecommerce.devpost.com/) |
 | 3 Nov 2026 (3 days) | **NLnet open source grants, November call** (NLnet Foundation) | €5,000 to €50,000 for a first grant | Builders of open source software, hardware or content; EU-backed funds need a strong European dimension | Unclear | [Apply](https://nlnet.nl/propose/) |
@@ -65,6 +67,7 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
+| Rolling | **FLOSS/fund** (Zerodha) | $10,000 to $100,000 a year per project | Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly | Yes | [Apply](https://floss.fund/) |
 | Rolling | **Thiel Fellowship** (Thiel Foundation) | $250,000 over two years, no equity | Anyone 22 or younger without a university degree who wants to build instead of attending college | Unclear | [Apply](https://thielfellowship.org/) |
 | Rolling | **Z Fellows** (Z Fellows) | Optional $10,000 investment at a $1B cap, one-week program | Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC | Yes | [Apply](https://www.zfellows.com/) |
 | Rolling | **Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)** (Ethereum Foundation) | Grant size set by scope, paid in ETH against milestones | Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome | Unclear | [Apply](https://esp.ethereum.foundation/applicants) |

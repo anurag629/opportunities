@@ -45,6 +45,17 @@
   },
   {
     "deadline": "2026-11-02",
+    "title": "Entrepreneurs First Bangalore, Winter 2027 cohort (second selection round)",
+    "org": "Entrepreneurs First",
+    "kind": "accelerator",
+    "amount": "Equity-free living grant, then up to $250,000 per team",
+    "who": "Individuals ready to start a company now, before they have a cofounder or idea; full time and in person in Bangalore from February 2027",
+    "india": "yes",
+    "link": "https://apply.joinef.com/app/bangalore-winter/",
+    "checked": "2026-10-31"
+  },
+  {
+    "deadline": "2026-11-02",
     "title": "Y Combinator Winter 2027 batch",
     "org": "Y Combinator",
     "kind": "accelerator",
@@ -372,6 +383,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "FLOSS/fund",
+    "org": "Zerodha",
+    "kind": "grant",
+    "amount": "$10,000 to $100,000 a year per project",
+    "who": "Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly",
+    "india": "yes",
+    "link": "https://floss.fund/",
+    "checked": "2026-10-31"
   },
   {
     "deadline": "rolling",

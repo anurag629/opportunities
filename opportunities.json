@@ -1,49 +1,5 @@
 [
   {
-    "deadline": "2026-10-30",
-    "title": "Better Scientific Software (BSSw) Fellowship 2027",
-    "org": "Consortium for the Advancement of Scientific Software (CASS)",
-    "kind": "fellowship",
-    "amount": "Up to $25,000 for an activity that improves scientific software",
-    "who": "People working on scientific software, affiliated with a US-based institution that can receive Federal funding",
-    "india": "no",
-    "link": "https://cass.community/news/2026-09-08-bsswf-open.html",
-    "checked": "2026-10-21"
-  },
-  {
-    "deadline": "2026-10-30",
-    "title": "Hertz Fellowship 2027",
-    "org": "Fannie and John Hertz Foundation",
-    "kind": "fellowship",
-    "amount": "Up to five years of PhD funding, valued at up to $250,000",
-    "who": "US citizens or permanent residents who will be first- or second-year PhD students in applied science, maths or engineering in fall 2027",
-    "india": "no",
-    "link": "http://fellowship.hertzfoundation.org/apply",
-    "checked": "2026-10-21"
-  },
-  {
-    "deadline": "2026-10-30",
-    "title": "Nebius x NVIDIA Global AI Hackathon",
-    "org": "Nebius and NVIDIA",
-    "kind": "hackathon",
-    "amount": "$50,000 in prizes, $20,000 grand prize",
-    "who": "Individuals of legal age, teams or organizations, online; build on Nebius AI Cloud or Token Factory with an NVIDIA open model",
-    "india": "yes",
-    "link": "https://nebiusglobalaihackathon.devpost.com/",
-    "checked": "2026-10-22"
-  },
-  {
-    "deadline": "2026-10-30",
-    "title": "Qloo Agentic Hackathon",
-    "org": "Qloo",
-    "kind": "hackathon",
-    "amount": "$25,000 in prizes",
-    "who": "Individuals of legal age, teams or organizations, online; build an agentic app that uses the Qloo API",
-    "india": "yes",
-    "link": "https://qloo.devpost.com/",
-    "checked": "2026-10-16"
-  },
-  {
     "deadline": "2026-11-01",
     "title": "Processing Foundation Fellowship 2027",
     "org": "Processing Foundation",
@@ -119,6 +75,17 @@
     "india": "unclear",
     "link": "https://nlnet.nl/propose/",
     "checked": "2026-10-16"
+  },
+  {
+    "deadline": "2026-11-04",
+    "title": "Fediverse Multimedia Grants",
+    "org": "Social Web Foundation and Interledger Foundation",
+    "kind": "grant",
+    "amount": "Up to $20,000 per team",
+    "who": "Developer and creator teams starting new audio, video or image publications on ActivityPub; decisions November 18, projects start December 1",
+    "india": "unclear",
+    "link": "https://socialwebfoundation.org/2026/10/07/call-for-proposals-fediverse-multimedia-grants",
+    "checked": "2026-10-31"
   },
   {
     "deadline": "2026-11-06",
@@ -379,10 +346,10 @@
     "org": "Kaggle",
     "kind": "competition",
     "amount": "$50,000, $5,000 each to the top 10",
-    "who": "Anyone 18+ on Kaggle, solo or team; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027",
+    "who": "Anyone 18+ on Kaggle, teams up to 5; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027",
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/name-that-llm",
-    "checked": "2026-10-25"
+    "checked": "2026-10-31"
   },
   {
     "deadline": "2027-01-13",

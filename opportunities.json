@@ -1,38 +1,5 @@
 [
   {
-    "deadline": "2026-11-01",
-    "title": "Processing Foundation Fellowship 2027",
-    "org": "Processing Foundation",
-    "kind": "fellowship",
-    "amount": "$10,000 stipend over an 8-month fellowship",
-    "who": "US-based artists and developers in open source creative code; self-nominations allowed",
-    "india": "no",
-    "link": "https://docs.google.com/forms/d/e/1FAIpQLScsJEntZjZEEgSTImwD-XTM6wZkc2XjpglYWXAOg69eZOiruw/viewform",
-    "checked": "2026-10-21"
-  },
-  {
-    "deadline": "2026-11-01",
-    "title": "The Steerability Challenge",
-    "org": "IBM Research, Tara Research and partners",
-    "kind": "competition",
-    "amount": "$40k+ in cash for the top three per track",
-    "who": "Anyone, anywhere, teams of 2 to 5; steer LLMs to be less dishonest. Register by Nov 1, submit by Nov 21",
-    "india": "yes",
-    "link": "https://tally.so/r/ZjBg10",
-    "checked": "2026-10-30"
-  },
-  {
-    "deadline": "2026-11-01",
-    "title": "a16z speedrun SR008",
-    "org": "Andreessen Horowitz (a16z)",
-    "kind": "accelerator",
-    "amount": "Up to $1M investment plus $10M+ in partner credits",
-    "who": "Very early founders, solo founders and students welcome; 12 weeks in person in San Francisco",
-    "india": "yes",
-    "link": "https://speedrun.a16z.com/apply",
-    "checked": "2026-10-14"
-  },
-  {
     "deadline": "2026-11-02",
     "title": "Codex x TwitchCon Hackathon",
     "org": "Twitch and OpenAI",
@@ -184,7 +151,7 @@
     "who": "Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI",
     "india": "yes",
     "link": "https://paypalaihackathon.devpost.com/",
-    "checked": "2026-10-19"
+    "checked": "2026-11-01"
   },
   {
     "deadline": "2026-11-14",
@@ -313,10 +280,10 @@
     "org": "Kiro",
     "kind": "hackathon",
     "amount": "$100,000 in cash",
-    "who": "Anyone above the age of majority, online; Halloween-themed build with Kiro. Full rules land October 30",
+    "who": "Anyone above the age of majority, online; Halloween-themed build with Kiro",
     "india": "yes",
     "link": "https://kiroween.devpost.com/",
-    "checked": "2026-10-26"
+    "checked": "2026-11-01"
   },
   {
     "deadline": "2026-12-07",
@@ -328,6 +295,28 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/enveda-CASMI26-molecule-id-mass-spectra",
     "checked": "2026-10-22"
+  },
+  {
+    "deadline": "2026-12-15",
+    "title": "MOPGA 2027 Visiting Fellowship for early-career researchers",
+    "org": "Campus France (French government)",
+    "kind": "fellowship",
+    "amount": "EUR 2,500 a month for 12 months plus a EUR 500 settling-in allowance",
+    "who": "Non-French researchers with a PhD from Dec 2021 to Dec 2026, not in France; climate, energy and One Health research",
+    "india": "yes",
+    "link": "https://campusfrance.smapply.io/prog/mopga_2027/",
+    "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2026-12-17",
+    "title": "Mozilla Foundation Fellowship 2027-2028",
+    "org": "Mozilla Foundation",
+    "kind": "fellowship",
+    "amount": "Up to $125,000 for 12 months ($100,000 stipend + $25,000 budget)",
+    "who": "Individual builders with a public-benefit tech project, able to receive a Mozilla grant; 10 Fellows; starts June 1, 2027",
+    "india": "yes",
+    "link": "https://www.mozillafoundation.org/en/what-we-do/grantmaking/fellowship/2027-call-for-applications/",
+    "checked": "2026-11-02"
   },
   {
     "deadline": "2026-12-20",
@@ -350,6 +339,17 @@
     "india": "yes",
     "link": "https://codegeist2026.devpost.com/",
     "checked": "2026-10-28"
+  },
+  {
+    "deadline": "2027-01-03",
+    "title": "Smart Buildings Competition (NeurIPS 2026)",
+    "org": "University of Washington and partners (Kaggle)",
+    "kind": "competition",
+    "amount": "$40,000: $25,000 leaderboard ($5,750 first) plus $15,000 in paper awards",
+    "who": "Anyone 18+ on Kaggle, teams up to 5; train HVAC control policies that work on unseen buildings. Final submissions due January 15, 2027",
+    "india": "yes",
+    "link": "https://www.kaggle.com/competitions/neurips-2026-smart-buildings",
+    "checked": "2026-11-02"
   },
   {
     "deadline": "2027-01-06",

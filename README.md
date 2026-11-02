@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 2 Nov 2026 · 43 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 2 Nov 2026 · 47 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -62,12 +62,16 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 6 Jan 2027 (65 days) | **NFL Big Data Bowl 2027** (National Football League (Kaggle)) | $100,000 total, $10,000 to each of 6 finalists, plus a $10,000 grand prize | Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data | Yes | [Apply](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027) |
 | 6 Jan 2027 (65 days) | **Name That LLM** (Kaggle) | $50,000, $5,000 each to the top 10 | Anyone 18+ on Kaggle, teams up to 5; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027 | Yes | [Apply](https://www.kaggle.com/competitions/name-that-llm) |
 | 13 Jan 2027 (72 days) | **Google Quantum AI: Verifiable Quantum Circuit Compilation** (Google Quantum AI (Kaggle)) | $150,000 total, $50,000 first place | Anyone 18+ on Kaggle, teams up to 5; shrink quantum circuits with AI agents, no physics needed | Yes | [Apply](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) |
+| 28 Feb 2027 (118 days) | **Imagine Cup 2027** (Microsoft for Startups) | $250,000 cash plus $1M in credits to the champion; $50k 2nd, $25k 3rd | Software startups (pre-seed to Series B) founded on or after Nov 2, 2024, founders 18+, HQ where Azure is available | Yes | [Apply](https://www.microsoft.com/en-us/startups/imaginecup2027) |
 | 11 Jul 2027 (251 days) | **Squares in Squares** (Kaggle) | $50,000 total, $12,000 first place, milestone prizes | Anyone 18+ on Kaggle; pack unit squares into the smallest square, a 9-month open maths problem | Yes | [Apply](https://www.kaggle.com/competitions/squares-in-squares) |
 
 ## Rolling (no fixed deadline)
 
 | Deadline | Opportunity | What you get | Who can apply | India | Apply |
 |---|---|---|---|---|---|
+| Rolling | **Internet Freedom Fund** (Open Technology Fund) | $10,000 to $900,000 for up to 24 months (ideal ask $50,000 to $200,000) | Individuals 18+ or organizations of any nationality building internet freedom tech, research or digital security | Yes | [Apply](https://apply.opentech.fund/internet-freedom-fund-concept-note/) |
+| Rolling | **Transformative AI Fund** (EA Funds) | Typically $10k to $150k, rarely over $300k | Individuals and new or existing organizations working to reduce catastrophic risks from advanced AI | Unclear | [Apply](https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund) |
+| Rolling | **AI for Science program (Claude API credits)** (Anthropic) | Up to $50,000 in Claude API credits per project | Researchers in any scientific field whose work AI can meaningfully speed up | Yes | [Apply](https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform) |
 | Rolling | **FLOSS/fund** (Zerodha) | $10,000 to $100,000 a year per project | Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly | Yes | [Apply](https://floss.fund/) |
 | Rolling | **Thiel Fellowship** (Thiel Foundation) | $250,000 over two years, no equity | Anyone 22 or younger without a university degree who wants to build instead of attending college | Unclear | [Apply](https://thielfellowship.org/) |
 | Rolling | **Z Fellows** (Z Fellows) | Optional $10,000 investment at a $1B cap, one-week program | Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC | Yes | [Apply](https://www.zfellows.com/) |

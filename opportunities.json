@@ -418,6 +418,17 @@
     "checked": "2026-10-31"
   },
   {
+    "deadline": "2027-01-10",
+    "title": "United Hacks V8",
+    "org": "Hack United",
+    "kind": "hackathon",
+    "amount": "$25k+ in prizes across all tracks, free to enter",
+    "who": "Anyone 13+, students and professionals, fully online from any country; Jan 8 to 10, 2027",
+    "india": "yes",
+    "link": "https://unitedhacks.hackunited.org/",
+    "checked": "2026-11-02"
+  },
+  {
     "deadline": "2027-01-13",
     "title": "Google Quantum AI: Verifiable Quantum Circuit Compilation",
     "org": "Google Quantum AI (Kaggle)",
@@ -427,6 +438,39 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
     "checked": "2026-10-27"
+  },
+  {
+    "deadline": "2027-02-11",
+    "title": "DeveloperWeek 2027 Hackathon",
+    "org": "DevNetwork",
+    "kind": "hackathon",
+    "amount": "$12,500 in prize value; Kilo challenge pays $1,500 cash first",
+    "who": "Open to everyone with pre-registration on Devpost; online Jan 25 to Feb 11, 2027, optional in person in Santa Clara",
+    "india": "yes",
+    "link": "https://www.developerweek.com/hackathon/",
+    "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-02-28",
+    "title": "Arbitrum Open House Sao Paulo: Online Buildathon",
+    "org": "Arbitrum Foundation (on HackQuest)",
+    "kind": "hackathon",
+    "amount": "115,000 USD pool; 40,000 USDC first prize, up to 30,000 USDC in grants",
+    "who": "Online, open theme; deploy contracts in Stylus or Solidity on an Arbitrum chain; new or existing projects; countries not listed",
+    "india": "unclear",
+    "link": "https://hackquest.io/hackathons/Arbitrum-Open-House-Sao-Paulo-Online-Buildathon",
+    "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-02-28",
+    "title": "Hack-Nation 8th Global AI Hackathon",
+    "org": "Hack-Nation",
+    "kind": "hackathon",
+    "amount": "$30K+ in cash prizes and API credits, $200K+ in AI tools for teams",
+    "who": "Free, online or at hubs (Harvard, MIT, Stanford, London and more); registration needs host approval; no team or idea required",
+    "india": "unclear",
+    "link": "https://luma.com/9j6zoc6n",
+    "checked": "2026-11-02"
   },
   {
     "deadline": "2027-02-28",

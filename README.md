@@ -2,7 +2,7 @@
 
 Fellowships, grants, paid hackathons, bounties and programs you can still apply for: what you get, the deadline, who can apply, and whether people in India can apply. Every entry is checked against its official page before it is listed, and the list is rebuilt every day. Past deadlines drop off on their own.
 
-Updated 2 Nov 2026 · 51 open · kept by [Anurag Verma](https://x.com/anurag_629)
+Updated 2 Nov 2026 · 55 open · kept by [Anurag Verma](https://x.com/anurag_629)
 
 Deadlines are the dates the organiser gives. Check the official page for the exact time and timezone before you leave it to the last day.
 
@@ -65,7 +65,11 @@ Prefer a spreadsheet? [opportunities.csv](opportunities.csv) opens in Google She
 | 3 Jan 2027 (62 days) | **Smart Buildings Competition (NeurIPS 2026)** (University of Washington and partners (Kaggle)) | $40,000: $25,000 leaderboard ($5,750 first) plus $15,000 in paper awards | Anyone 18+ on Kaggle, teams up to 5; train HVAC control policies that work on unseen buildings. Final submissions due January 15, 2027 | Yes | [Apply](https://www.kaggle.com/competitions/neurips-2026-smart-buildings) |
 | 6 Jan 2027 (65 days) | **NFL Big Data Bowl 2027** (National Football League (Kaggle)) | $100,000 total, $10,000 to each of 6 finalists, plus a $10,000 grand prize | Anyone on Kaggle (prizes need 18+), Open and University tracks; analytics writeup using NFL Combine and game player tracking data | Yes | [Apply](https://www.kaggle.com/competitions/nfl-big-data-bowl-2027) |
 | 6 Jan 2027 (65 days) | **Name That LLM** (Kaggle) | $50,000, $5,000 each to the top 10 | Anyone 18+ on Kaggle, teams up to 5; classify which of 18 frontier models wrote a passage. Final submission January 13, 2027 | Yes | [Apply](https://www.kaggle.com/competitions/name-that-llm) |
+| 10 Jan 2027 (69 days) | **United Hacks V8** (Hack United) | $25k+ in prizes across all tracks, free to enter | Anyone 13+, students and professionals, fully online from any country; Jan 8 to 10, 2027 | Yes | [Apply](https://unitedhacks.hackunited.org/) |
 | 13 Jan 2027 (72 days) | **Google Quantum AI: Verifiable Quantum Circuit Compilation** (Google Quantum AI (Kaggle)) | $150,000 total, $50,000 first place | Anyone 18+ on Kaggle, teams up to 5; shrink quantum circuits with AI agents, no physics needed | Yes | [Apply](https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation) |
+| 11 Feb 2027 (101 days) | **DeveloperWeek 2027 Hackathon** (DevNetwork) | $12,500 in prize value; Kilo challenge pays $1,500 cash first | Open to everyone with pre-registration on Devpost; online Jan 25 to Feb 11, 2027, optional in person in Santa Clara | Yes | [Apply](https://www.developerweek.com/hackathon/) |
+| 28 Feb 2027 (118 days) | **Arbitrum Open House Sao Paulo: Online Buildathon** (Arbitrum Foundation (on HackQuest)) | 115,000 USD pool; 40,000 USDC first prize, up to 30,000 USDC in grants | Online, open theme; deploy contracts in Stylus or Solidity on an Arbitrum chain; new or existing projects; countries not listed | Unclear | [Apply](https://hackquest.io/hackathons/Arbitrum-Open-House-Sao-Paulo-Online-Buildathon) |
+| 28 Feb 2027 (118 days) | **Hack-Nation 8th Global AI Hackathon** (Hack-Nation) | $30K+ in cash prizes and API credits, $200K+ in AI tools for teams | Free, online or at hubs (Harvard, MIT, Stanford, London and more); registration needs host approval; no team or idea required | Unclear | [Apply](https://luma.com/9j6zoc6n) |
 | 28 Feb 2027 (118 days) | **Imagine Cup 2027** (Microsoft for Startups) | $250,000 cash plus $1M in credits to the champion; $50k 2nd, $25k 3rd | Software startups (pre-seed to Series B) founded on or after Nov 2, 2024, founders 18+, HQ where Azure is available | Yes | [Apply](https://www.microsoft.com/en-us/startups/imaginecup2027) |
 | 11 Jul 2027 (251 days) | **Squares in Squares** (Kaggle) | $50,000 total, $12,000 first place, milestone prizes | Anyone 18+ on Kaggle; pack unit squares into the smallest square, a 9-month open maths problem | Yes | [Apply](https://www.kaggle.com/competitions/squares-in-squares) |
 

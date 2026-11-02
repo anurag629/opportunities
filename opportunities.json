@@ -154,6 +154,17 @@
     "checked": "2026-11-01"
   },
   {
+    "deadline": "2026-11-13",
+    "title": "Global Virtual Hackathon 2026",
+    "org": "Canadian International School, Singapore",
+    "kind": "hackathon",
+    "amount": "$1,000 first prize and two $250 runner-up prizes in each of two divisions",
+    "who": "School students aged 14 to 18 in teams of 2 to 4, worldwide; online, 7-day build then a recorded team interview",
+    "india": "yes",
+    "link": "https://gvhackathon.com/signup",
+    "checked": "2026-11-02"
+  },
+  {
     "deadline": "2026-11-14",
     "title": "AMD AI League",
     "org": "AMD and lablab.ai",
@@ -163,6 +174,17 @@
     "india": "unclear",
     "link": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
     "checked": "2026-10-27"
+  },
+  {
+    "deadline": "2026-11-15",
+    "title": "2026 Epic AI MegaJam",
+    "org": "Epic Games",
+    "kind": "hackathon",
+    "amount": "$65,000 in cash prizes plus Development Continuation Grants up to $50,000",
+    "who": "Developers 18+ with an active Epic Games account; teams build a game in Unreal Engine or UEFN, November 12 to 15, online",
+    "india": "unclear",
+    "link": "https://itch.io/jam/2026-epic-ai-megajam",
+    "checked": "2026-11-02"
   },
   {
     "deadline": "2026-11-15",
@@ -297,6 +319,17 @@
     "checked": "2026-10-22"
   },
   {
+    "deadline": "2026-12-07",
+    "title": "Kotlin Multiplatform Contest 2027",
+    "org": "JetBrains and the Kotlin Foundation",
+    "kind": "competition",
+    "amount": "3 trips to KotlinConf 2027 in Krakow (flight, hotel, ticket; about $3,000 each)",
+    "who": "Full-time university students, 18+, with a Kotlin Multiplatform project; excludes Brazil, Quebec, Italy, sanctioned regions",
+    "india": "yes",
+    "link": "https://kotlinconf.com/contest/",
+    "checked": "2026-11-02"
+  },
+  {
     "deadline": "2026-12-15",
     "title": "MOPGA 2027 Visiting Fellowship for early-career researchers",
     "org": "Campus France (French government)",
@@ -339,6 +372,17 @@
     "india": "yes",
     "link": "https://codegeist2026.devpost.com/",
     "checked": "2026-10-28"
+  },
+  {
+    "deadline": "2026-12-24",
+    "title": "Snapmaker U1 Innovation Fund, Phase 2",
+    "org": "Snapmaker",
+    "kind": "grant",
+    "amount": "$50,000 pool for 20 winners, $1,500 to $5,000 per project",
+    "who": "Anyone with an open source project that connects to the Snapmaker U1 3D printer (firmware, slicer, mods); apply on the Snapmaker forum",
+    "india": "unclear",
+    "link": "https://forum.snapmaker.com/c/projects-tips-mods/innovation-fund-phase-2-project-submission/114",
+    "checked": "2026-11-02"
   },
   {
     "deadline": "2027-01-03",

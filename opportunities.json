@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-11-04",
-    "title": "Fediverse Multimedia Grants",
-    "org": "Social Web Foundation and Interledger Foundation",
-    "kind": "grant",
-    "amount": "Up to $20,000 per team",
-    "who": "Developer and creator teams starting new audio, video or image publications on ActivityPub; decisions November 18, projects start December 1",
-    "india": "unclear",
-    "link": "https://socialwebfoundation.org/2026/10/07/call-for-proposals-fediverse-multimedia-grants",
-    "checked": "2026-10-31"
-  },
-  {
     "deadline": "2026-11-06",
     "title": "Since AI Hackathon 2026",
     "org": "Since AI",
@@ -349,7 +338,7 @@
     "who": "Anyone 18+, teams or organizations, online; build for QNX 8.0 (free for non-commercial use, QEMU works)",
     "india": "yes",
     "link": "https://qnx.devpost.com/",
-    "checked": "2026-11-04"
+    "checked": "2026-11-05"
   },
   {
     "deadline": "2026-12-17",
@@ -394,6 +383,17 @@
     "india": "unclear",
     "link": "https://forum.snapmaker.com/c/projects-tips-mods/innovation-fund-phase-2-project-submission/114",
     "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-01-03",
+    "title": "NLnet open source grants, January 2027 call",
+    "org": "NLnet Foundation",
+    "kind": "grant",
+    "amount": "EUR 5,000 to 50,000 for a first grant, no equity",
+    "who": "Anyone building open source software, hardware or standards; EU-backed funds want a European dimension",
+    "india": "unclear",
+    "link": "https://nlnet.nl/propose/",
+    "checked": "2026-11-05"
   },
   {
     "deadline": "2027-01-03",
@@ -449,6 +449,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
     "checked": "2026-10-27"
+  },
+  {
+    "deadline": "2027-01-24",
+    "title": "PCBWay 9th Project Design Contest",
+    "org": "PCBWay",
+    "kind": "competition",
+    "amount": "$2,000 cash first prize plus a Jetson Orin Nano Super kit",
+    "who": "Makers, engineers and students, solo or in teams; original hardware projects on PCBWay Community",
+    "india": "unclear",
+    "link": "https://www.pcbway.com/activity/9th-project-design-contest.html",
+    "checked": "2026-11-05"
   },
   {
     "deadline": "2027-02-11",
@@ -507,6 +518,39 @@
   },
   {
     "deadline": "rolling",
+    "title": "Thiel Fellowship",
+    "org": "Thiel Foundation",
+    "kind": "fellowship",
+    "amount": "$250,000 over two years, no equity",
+    "who": "Anyone 22 or younger without a university degree who wants to build instead of attending college",
+    "india": "unclear",
+    "link": "https://thielfellowship.org/",
+    "checked": "2026-11-05"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Z Fellows",
+    "org": "Z Fellows",
+    "kind": "fellowship",
+    "amount": "Optional $10,000 investment at a $1B cap, one-week program",
+    "who": "Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC",
+    "india": "yes",
+    "link": "https://www.zfellows.com/",
+    "checked": "2026-11-05"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Sequoia Open Source Fellowship",
+    "org": "Sequoia Capital",
+    "kind": "fellowship",
+    "amount": "Living expenses covered for 6 to 12 months, no equity",
+    "who": "Open source creators whose projects have real-world adoption; location agnostic",
+    "india": "yes",
+    "link": "https://sequoiacap.com/oss",
+    "checked": "2026-11-05"
+  },
+  {
+    "deadline": "rolling",
     "title": "Anthropic Fellows Program, ML Systems and Reinforcement Learning",
     "org": "Anthropic",
     "kind": "fellowship",
@@ -562,28 +606,6 @@
   },
   {
     "deadline": "rolling",
-    "title": "Thiel Fellowship",
-    "org": "Thiel Foundation",
-    "kind": "fellowship",
-    "amount": "$250,000 over two years, no equity",
-    "who": "Anyone 22 or younger without a university degree who wants to build instead of attending college",
-    "india": "unclear",
-    "link": "https://thielfellowship.org/",
-    "checked": "2026-10-30"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Z Fellows",
-    "org": "Z Fellows",
-    "kind": "fellowship",
-    "amount": "Optional $10,000 investment at a $1B cap, one-week program",
-    "who": "Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC",
-    "india": "yes",
-    "link": "https://www.zfellows.com/",
-    "checked": "2026-10-30"
-  },
-  {
-    "deadline": "rolling",
     "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
     "org": "Ethereum Foundation",
     "kind": "grant",
@@ -592,17 +614,6 @@
     "india": "unclear",
     "link": "https://esp.ethereum.foundation/applicants",
     "checked": "2026-10-29"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Sequoia Open Source Fellowship",
-    "org": "Sequoia Capital",
-    "kind": "fellowship",
-    "amount": "Living expenses covered for 6 to 12 months, no equity",
-    "who": "Open source creators whose projects have real-world adoption; location agnostic",
-    "india": "yes",
-    "link": "https://sequoiacap.com/oss",
-    "checked": "2026-10-28"
   },
   {
     "deadline": "rolling",

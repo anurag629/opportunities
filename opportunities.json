@@ -121,6 +121,17 @@
     "checked": "2026-10-27"
   },
   {
+    "deadline": "2026-11-14",
+    "title": "NEAR Hackathon: Build Beyond Boundaries",
+    "org": "NEAR",
+    "kind": "hackathon",
+    "amount": "$250,000 paid in NEAR: $55K grand prize, $10K/$3K/$2K in each of 13 tracks",
+    "who": "Anyone, solo or teams, online; public repo and an X demo post required. No country rules on the page",
+    "india": "unclear",
+    "link": "https://nearhackathon.com/",
+    "checked": "2026-11-06"
+  },
+  {
     "deadline": "2026-11-15",
     "title": "2026 Epic AI MegaJam",
     "org": "Epic Games",
@@ -264,6 +275,17 @@
     "checked": "2026-10-25"
   },
   {
+    "deadline": "2026-11-30",
+    "title": "STM32Cube Innovation Challenge: Design with STM32C5",
+    "org": "Elektor and STMicroelectronics",
+    "kind": "competition",
+    "amount": "EUR 5,000 total, EUR 2,500 first; free STM32C5 boards for picked ideas",
+    "who": "Individuals 18+, no teams; send a project idea by November 30, final projects due January 31, 2027",
+    "india": "yes",
+    "link": "https://www.elektormagazine.com/stm32cube-innovation-challenge",
+    "checked": "2026-11-06"
+  },
+  {
     "deadline": "2026-12-04",
     "title": "Kiroween 2026",
     "org": "Kiro",
@@ -383,6 +405,17 @@
     "india": "unclear",
     "link": "https://forum.snapmaker.com/c/projects-tips-mods/innovation-fund-phase-2-project-submission/114",
     "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-01-03",
+    "title": "Infineon Boss Battle in the AI Arena",
+    "org": "Infineon on Hackster",
+    "kind": "competition",
+    "amount": "$2,000: $1,000 winner, two $500 runners-up",
+    "who": "Adults 18+ in listed countries (India included) who build an edge AI project on the PSOC Edge E84 AI kit",
+    "india": "yes",
+    "link": "https://www.hackster.io/contests/infineon-boss-battle",
+    "checked": "2026-11-06"
   },
   {
     "deadline": "2027-01-03",
@@ -518,6 +551,28 @@
   },
   {
     "deadline": "rolling",
+    "title": "FLOSS/fund",
+    "org": "Zerodha",
+    "kind": "grant",
+    "amount": "$10,000 to $100,000 a year per project",
+    "who": "Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly",
+    "india": "yes",
+    "link": "https://floss.fund/",
+    "checked": "2026-11-06"
+  },
+  {
+    "deadline": "rolling",
+    "title": "AI for Science program (Claude API credits)",
+    "org": "Anthropic",
+    "kind": "grant",
+    "amount": "Up to $50,000 in Claude API credits per project",
+    "who": "Researchers in any scientific field whose work AI can meaningfully speed up",
+    "india": "yes",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
+    "checked": "2026-11-06"
+  },
+  {
+    "deadline": "rolling",
     "title": "Thiel Fellowship",
     "org": "Thiel Foundation",
     "kind": "fellowship",
@@ -581,28 +636,6 @@
     "india": "unclear",
     "link": "https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund",
     "checked": "2026-11-02"
-  },
-  {
-    "deadline": "rolling",
-    "title": "AI for Science program (Claude API credits)",
-    "org": "Anthropic",
-    "kind": "grant",
-    "amount": "Up to $50,000 in Claude API credits per project",
-    "who": "Researchers in any scientific field whose work AI can meaningfully speed up",
-    "india": "yes",
-    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
-    "checked": "2026-11-02"
-  },
-  {
-    "deadline": "rolling",
-    "title": "FLOSS/fund",
-    "org": "Zerodha",
-    "kind": "grant",
-    "amount": "$10,000 to $100,000 a year per project",
-    "who": "Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly",
-    "india": "yes",
-    "link": "https://floss.fund/",
-    "checked": "2026-10-31"
   },
   {
     "deadline": "rolling",

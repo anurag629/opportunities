@@ -187,6 +187,17 @@
     "checked": "2026-10-29"
   },
   {
+    "deadline": "2026-11-20",
+    "title": "Ring Appstore Challenge 2026",
+    "org": "Ring",
+    "kind": "competition",
+    "amount": "$500,000: $250,000 grand prize, then $100,000 and two $75,000",
+    "who": "US college students 18+, residents of the 50 states or DC; build and launch an app on the Ring Appstore",
+    "india": "no",
+    "link": "https://ring.com/appchallenge",
+    "checked": "2026-11-08"
+  },
+  {
     "deadline": "2026-11-22",
     "title": "Internet Society Fellowship Program 2027",
     "org": "Internet Society",
@@ -374,6 +385,17 @@
     "checked": "2026-10-26"
   },
   {
+    "deadline": "2026-12-20",
+    "title": "Build the Autodesk University 2027 Product",
+    "org": "Hackster with Autodesk, Arduino, Qualcomm and PCBWay",
+    "kind": "competition",
+    "amount": "$4,000+ pool: three $1,000 awards, two with a 1-year Autodesk Fusion license",
+    "who": "Citizens and residents of a listed set of countries (US, UK, EU, Japan, Singapore and others); India is not on the list",
+    "india": "no",
+    "link": "https://www.hackster.io/contests/autodesk-university-2027-product",
+    "checked": "2026-11-08"
+  },
+  {
     "deadline": "2026-12-22",
     "title": "Codegeist 2026",
     "org": "Atlassian",
@@ -484,6 +506,17 @@
     "checked": "2026-11-05"
   },
   {
+    "deadline": "2027-01-31",
+    "title": "AI Hardware Creative Challenge 2026",
+    "org": "Tindie and PCBWay",
+    "kind": "competition",
+    "amount": "$2,500 pool, 17 prizes, $600 grand prize, plus $50 PCBWay coupons",
+    "who": "Makers and AI enthusiasts worldwide, individuals or teams; a working physical build with a real AI function, any hardware brand",
+    "india": "yes",
+    "link": "https://www.tindie.com/campaigns/ai-hardware-2026/",
+    "checked": "2026-11-08"
+  },
+  {
     "deadline": "2027-02-11",
     "title": "DeveloperWeek 2027 Hackathon",
     "org": "DevNetwork",
@@ -528,6 +561,17 @@
     "checked": "2026-11-04"
   },
   {
+    "deadline": "2027-04-25",
+    "title": "Sustain the System",
+    "org": "Nordic Semiconductor on Hackster",
+    "kind": "competition",
+    "amount": "$8,000 total prize pool, $3,000 top award, five $1,000 awards",
+    "who": "Adults 18+ building sustainability projects on Nordic hardware; 7 countries excluded, India not among them",
+    "india": "yes",
+    "link": "https://www.hackster.io/contests/sustain-the-system",
+    "checked": "2026-11-08"
+  },
+  {
     "deadline": "2027-07-11",
     "title": "Squares in Squares",
     "org": "Kaggle",
@@ -537,6 +581,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Emergent Ventures",
+    "org": "Mercatus Center",
+    "kind": "grant",
+    "amount": "Grants, size not stated; a tranche for India-focused projects",
+    "who": "Anyone 13+ anywhere with a scalable, zero-to-one idea; applications written with AI (beyond proofreading) are rejected",
+    "india": "yes",
+    "link": "https://mercatus.tfaforms.net/5099527",
+    "checked": "2026-11-08"
   },
   {
     "deadline": "rolling",

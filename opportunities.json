@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-11-08",
-    "title": "Swarm Alignment Hackathon",
-    "org": "Apart Research and AI Alignment Foundation, with AE Studio",
-    "kind": "hackathon",
-    "amount": "$4,000 in cash ($2,000 first) plus Adaption credits, free to join",
-    "who": "Anyone, any background, teams of 1 to 5; online Nov 6 to 8; an up to 8-page report on multi-agent safety",
-    "india": "yes",
-    "link": "https://apartresearch.com/sprints/swarm-alignment-2026",
-    "checked": "2026-11-03"
-  },
-  {
-    "deadline": "2026-11-08",
-    "title": "Vultr: Agent Rush Hackathon",
-    "org": "Vultr and lablab.ai",
-    "kind": "hackathon",
-    "amount": "$9,000 in cash ($5,000 first prize) plus $5,000 in Vultr credits",
-    "who": "Everyone, any level, teams of 1 to 6; online build Nov 3 to 8, optional on-site showcase in Salt Lake City",
-    "india": "unclear",
-    "link": "https://lablab.ai/ai-hackathons/vultr-hackathon",
-    "checked": "2026-10-27"
-  },
-  {
     "deadline": "2026-11-09",
     "title": "EPFL AI Center and Swiss AI Initiative Postdoctoral Fellowships, 3rd call",
     "org": "EPFL AI Center",
@@ -242,17 +220,6 @@
     "checked": "2026-11-07"
   },
   {
-    "deadline": "2026-11-29",
-    "title": "Agent Attribution Hackathon",
-    "org": "Apart Research",
-    "kind": "hackathon",
-    "amount": "$2,000 in cash ($1,000 first), free to join",
-    "who": "Engineers, researchers and anyone else, online November 27 to 29; build tools that tell autonomous AI agents from human-steered ones",
-    "india": "yes",
-    "link": "https://apartresearch.com/sprints/agent-attribution-2026",
-    "checked": "2026-11-03"
-  },
-  {
     "deadline": "2026-11-30",
     "title": "#BuildHybridAI 2026",
     "org": "Google (Firebase)",
@@ -265,14 +232,25 @@
   },
   {
     "deadline": "2026-11-30",
+    "title": "Agentware: AI Agent Hackathon",
+    "org": "Hackathon Raptors",
+    "kind": "hackathon",
+    "amount": "$1,800 pool: $800 first, $400 second, $200 third, plus side prizes",
+    "who": "Solo or teams of 1 to 4, online, free; a 72-hour build of an open-source AI agent that acts on its own. No country rules on the page",
+    "india": "unclear",
+    "link": "https://www.agentwarehack.com/",
+    "checked": "2026-11-09"
+  },
+  {
+    "deadline": "2026-11-30",
     "title": "EasyEDA Spark 2026",
     "org": "EasyEDA and JLC",
     "kind": "competition",
     "amount": "$85,000 prize pool, up to $30,000 for the top project",
-    "who": "Anyone 16+; hardware designed in EasyEDA Pro, made through JLC and published on OSHWLab. Projects due December 31",
+    "who": "Anyone 16+: students, makers, engineers, startups; add electronics to a 3D print. Register by Nov 30, submit by Dec 31 (UTC+8)",
     "india": "yes",
     "link": "https://jlc3dp.com/news/easyeda-spark-contest",
-    "checked": "2026-10-25"
+    "checked": "2026-11-09"
   },
   {
     "deadline": "2026-11-30",
@@ -302,10 +280,10 @@
     "org": "Apart Research and SL5",
     "kind": "hackathon",
     "amount": "$5,000 in cash ($2,500 first), free to join",
-    "who": "Anyone, no background needed, teams of 1 to 5; online Dec 4 to 6; an up to 8-page report on frontier AI security",
+    "who": "Anyone, no background needed, teams of 1 to 5; online December 4 to 6; use LLMs for threat intelligence and threat modelling",
     "india": "yes",
     "link": "https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
-    "checked": "2026-11-03"
+    "checked": "2026-11-09"
   },
   {
     "deadline": "2026-12-07",
@@ -339,6 +317,28 @@
     "india": "yes",
     "link": "https://aws-agentic-msp.devpost.com/",
     "checked": "2026-11-04"
+  },
+  {
+    "deadline": "2026-12-12",
+    "title": "HackerRank Orchestrate: Holiday Edition",
+    "org": "HackerRank",
+    "kind": "hackathon",
+    "amount": "$1,200 first place, $300 each for 2nd to 5th",
+    "who": "Solo, online, 24 hours to build an agent, then a 30-minute AI judge interview. Who can enter isn't stated outside the FAQ",
+    "india": "unclear",
+    "link": "https://www.hackerrank.com/hackerrank-orchestrate-december26",
+    "checked": "2026-11-09"
+  },
+  {
+    "deadline": "2026-12-13",
+    "title": "Agent Attribution Hackathon",
+    "org": "Apart Research",
+    "kind": "hackathon",
+    "amount": "Free; no cash prize listed now, top teams fast-tracked to the Apart Fellowship",
+    "who": "Anyone, teams of 1 to 5, online December 11 to 13 (moved from November 27 to 29); tell autonomous agents from human-steered ones",
+    "india": "yes",
+    "link": "https://apartresearch.com/sprints/agent-attribution-2026",
+    "checked": "2026-11-09"
   },
   {
     "deadline": "2026-12-15",
@@ -379,10 +379,10 @@
     "org": "Arbiter",
     "kind": "hackathon",
     "amount": "$7,800 in cash across a General track and a Rethinking Waste theme track",
-    "who": "Students aged 13+, solo or teams of 1 to 4, online; companies excluded",
+    "who": "Students only, ages 13+, online, any stack; companies excluded",
     "india": "yes",
     "link": "https://arbiter-hacks-v1.devpost.com/",
-    "checked": "2026-10-26"
+    "checked": "2026-11-09"
   },
   {
     "deadline": "2026-12-20",

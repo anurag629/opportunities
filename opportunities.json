@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-11-10",
-    "title": "DATANOVA 2026 Global Data-thon",
-    "org": "DataNova",
-    "kind": "hackathon",
-    "amount": "$1,750 in cash, $1,000 first prize",
-    "who": "Student teams, online; data and AI tracks. Round 1 due November 10, shortlisted teams present November 25",
-    "india": "yes",
-    "link": "https://datanova-2026-global-data-thon.devpost.com/",
-    "checked": "2026-10-29"
-  },
-  {
-    "deadline": "2026-11-10",
-    "title": "HERHACK 2026",
-    "org": "IEEE EIT Student Branch WIE, Echelon Institute of Technology",
-    "kind": "hackathon",
-    "amount": "Rs 2,00,000 total prize pool, free registration",
-    "who": "Students aged 17+, teams of 2 to 5; submit online by November 10, 36-hour finale November 20 to 21 in Faridabad, Haryana",
-    "india": "yes",
-    "link": "https://herhack.devpost.com/",
-    "checked": "2026-10-26"
-  },
-  {
     "deadline": "2026-11-12",
     "title": "Gemma 4 Developer Agent Paper Track",
     "org": "Google (Kaggle)",
@@ -121,6 +99,17 @@
     "checked": "2026-10-23"
   },
   {
+    "deadline": "2026-11-16",
+    "title": "Plether Audit Competition",
+    "org": "Plether on Immunefi",
+    "kind": "bounty",
+    "amount": "$80,000 USD reward pool if any bug is found",
+    "who": "Security researchers 18+, online smart contract audit; no OFAC-listed or Immunefi-restricted countries (list not on page)",
+    "india": "unclear",
+    "link": "https://immunefi.com/audit-competition/plether/information/",
+    "checked": "2026-11-11"
+  },
+  {
     "deadline": "2026-11-18",
     "title": "Meta VR Start Developer Competition 2026",
     "org": "Meta",
@@ -152,6 +141,39 @@
     "india": "no",
     "link": "https://ring.com/appchallenge",
     "checked": "2026-11-08"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "Anthropic Residency 2026",
+    "org": "Anthropic",
+    "kind": "residency",
+    "amount": "$350,000 to $500,000/year, pro-rated, for 6 weeks to 6 months",
+    "who": "Professors, technical founders, staff engineers moving into AI safety; no ML background needed. SF preferred, visas for 3+ months",
+    "india": "yes",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "checked": "2026-11-11"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "GovAI DC Summer Fellowship 2027",
+    "org": "Centre for the Governance of AI (GovAI)",
+    "kind": "fellowship",
+    "amount": "$24,500 stipend plus travel support to DC",
+    "who": "Right to work in the US required, no visa sponsorship; US AI policy, in person in DC, Jun 7 to Aug 27, 2027",
+    "india": "no",
+    "link": "https://www.governance.ai/post/dc-summer-fellowship-2027",
+    "checked": "2026-11-11"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "GovAI UK Summer Fellowship 2027 (Research Track)",
+    "org": "Centre for the Governance of AI (GovAI)",
+    "kind": "fellowship",
+    "amount": "GBP 14,000 salary plus travel support to London",
+    "who": "Early-career to experienced AI governance researchers; full-time in London, Jun 7 to Aug 27, 2027. Visas sponsored",
+    "india": "yes",
+    "link": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
+    "checked": "2026-11-11"
   },
   {
     "deadline": "2026-11-22",

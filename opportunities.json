@@ -298,6 +298,17 @@
   },
   {
     "deadline": "2026-12-07",
+    "title": "Deck the Pixels",
+    "org": "Google, with Adobe",
+    "kind": "competition",
+    "amount": "$25,000 in prizes, $8,000 first place",
+    "who": "Adults, online; an ugly holiday sweater and card made with Nano Banana in Photoshop. Italy, Brazil, China and some others excluded",
+    "india": "yes",
+    "link": "https://deckthepixels.devpost.com/",
+    "checked": "2026-11-12"
+  },
+  {
+    "deadline": "2026-12-07",
     "title": "Enveda CASMI 2026: Molecule ID From Mass Spectra",
     "org": "Enveda Therapeutics (Kaggle)",
     "kind": "competition",
@@ -438,6 +449,17 @@
     "india": "unclear",
     "link": "https://forum.snapmaker.com/c/projects-tips-mods/innovation-fund-phase-2-project-submission/114",
     "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2026-12-25",
+    "title": "GenHacks",
+    "org": "GenHacks",
+    "kind": "hackathon",
+    "amount": "CAD 1,050+ in cash, CAD 500 first place, plus credits",
+    "who": "Students 13+, online, any country except standard exceptions; companies excluded. Closes at midnight EST as December 26 begins",
+    "india": "yes",
+    "link": "https://genhacks-open.devpost.com/",
+    "checked": "2026-11-12"
   },
   {
     "deadline": "2027-01-03",
@@ -592,6 +614,17 @@
     "india": "yes",
     "link": "https://www.hackster.io/contests/sustain-the-system",
     "checked": "2026-11-08"
+  },
+  {
+    "deadline": "2027-06-27",
+    "title": "Emotion in Motion",
+    "org": "Arduino and Renesas on Hackster",
+    "kind": "competition",
+    "amount": "$14,000+ prize pool, 1st place $5,000 value, free hardware to apply for",
+    "who": "Makers 18+, online; build on the Arduino UNO R4 WiFi (emotion, voice or motors). Hardware applications close Jan 10, 2027",
+    "india": "yes",
+    "link": "https://www.hackster.io/contests/emotion-in-motion",
+    "checked": "2026-11-12"
   },
   {
     "deadline": "2027-07-11",

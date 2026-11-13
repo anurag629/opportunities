@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-11-12",
-    "title": "Gemma 4 Developer Agent Paper Track",
-    "org": "Google (Kaggle)",
-    "kind": "competition",
-    "amount": "$35,000: $15,000 best paper, two $10,000 awards",
-    "who": "Anyone 18+ on Kaggle, teams up to 5; a research writeup on agentic software engineering",
-    "india": "yes",
-    "link": "https://www.kaggle.com/competitions/gemma-4-developer-agent-paper",
-    "checked": "2026-10-30"
-  },
-  {
-    "deadline": "2026-11-12",
-    "title": "PayPal AI Hackathon",
-    "org": "PayPal",
-    "kind": "hackathon",
-    "amount": "$67,500 in cash, $12,000 first prize",
-    "who": "Individuals of legal age, teams or organizations, online; build something that meaningfully uses both PayPal and AI",
-    "india": "yes",
-    "link": "https://paypalaihackathon.devpost.com/",
-    "checked": "2026-11-01"
-  },
-  {
     "deadline": "2026-11-13",
     "title": "Global Virtual Hackathon 2026",
     "org": "Canadian International School, Singapore",
@@ -133,6 +111,17 @@
   },
   {
     "deadline": "2026-11-20",
+    "title": "Impact AI Fellowship 2027",
+    "org": "HIIG (Humboldt Institute for Internet and Society)",
+    "kind": "fellowship",
+    "amount": "EUR 5,000 stipend for 10 weeks",
+    "who": "AI people from academia, journalism, civil society, public bodies, companies; mostly remote, 2 weeks in Berlin",
+    "india": "unclear",
+    "link": "https://www.hiig.de/en/impact-ai-call-for-fellows/",
+    "checked": "2026-11-13"
+  },
+  {
+    "deadline": "2026-11-20",
     "title": "Ring Appstore Challenge 2026",
     "org": "Ring",
     "kind": "competition",
@@ -173,7 +162,7 @@
     "who": "Early-career to experienced AI governance researchers; full-time in London, Jun 7 to Aug 27, 2027. Visas sponsored",
     "india": "yes",
     "link": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
-    "checked": "2026-11-11"
+    "checked": "2026-11-13"
   },
   {
     "deadline": "2026-11-22",
@@ -287,6 +276,17 @@
   },
   {
     "deadline": "2026-12-06",
+    "title": "Talos Fellowship, Spring 2027",
+    "org": "Talos Network",
+    "kind": "fellowship",
+    "amount": "About EUR 3,000/month on an optional 6-month placement, summit travel covered",
+    "who": "European AI policy careers; EU or UK work rights needed, no visa sponsorship; outside Europe generally not accepted",
+    "india": "no",
+    "link": "https://www.guidedtrack.com/programs/dfepjzo/run",
+    "checked": "2026-11-13"
+  },
+  {
+    "deadline": "2026-12-06",
     "title": "Threat Intelligence and Threat Modelling Hackathon",
     "org": "Apart Research and SL5",
     "kind": "hackathon",
@@ -302,10 +302,10 @@
     "org": "Google, with Adobe",
     "kind": "competition",
     "amount": "$25,000 in prizes, $8,000 first place",
-    "who": "Adults, online; an ugly holiday sweater and card made with Nano Banana in Photoshop. Italy, Brazil, China and some others excluded",
+    "who": "Adults, online, no coding; ugly sweater and card made with Nano Banana in Photoshop. Italy, Brazil, China, others excluded",
     "india": "yes",
     "link": "https://deckthepixels.devpost.com/",
-    "checked": "2026-11-12"
+    "checked": "2026-11-13"
   },
   {
     "deadline": "2026-12-07",
@@ -639,6 +639,17 @@
   },
   {
     "deadline": "rolling",
+    "title": "Sequoia Open Source Fellowship",
+    "org": "Sequoia Capital",
+    "kind": "fellowship",
+    "amount": "Living expenses covered for 6 to 12 months, no equity",
+    "who": "Open source creators whose projects have real-world adoption; location agnostic; 2 to 3 fellows a year",
+    "india": "yes",
+    "link": "https://sequoiacap.com/oss",
+    "checked": "2026-11-13"
+  },
+  {
+    "deadline": "rolling",
     "title": "Emergent Ventures",
     "org": "Mercatus Center",
     "kind": "grant",
@@ -701,17 +712,6 @@
     "who": "Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC",
     "india": "yes",
     "link": "https://www.zfellows.com/",
-    "checked": "2026-11-05"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Sequoia Open Source Fellowship",
-    "org": "Sequoia Capital",
-    "kind": "fellowship",
-    "amount": "Living expenses covered for 6 to 12 months, no equity",
-    "who": "Open source creators whose projects have real-world adoption; location agnostic",
-    "india": "yes",
-    "link": "https://sequoiacap.com/oss",
     "checked": "2026-11-05"
   },
   {

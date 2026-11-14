@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-11-13",
-    "title": "Global Virtual Hackathon 2026",
-    "org": "Canadian International School, Singapore",
-    "kind": "hackathon",
-    "amount": "$1,000 first prize and two $250 runner-up prizes in each of two divisions",
-    "who": "School students aged 14 to 18 in teams of 2 to 4, worldwide; online, 7-day build then a recorded team interview",
-    "india": "yes",
-    "link": "https://gvhackathon.com/signup",
-    "checked": "2026-11-02"
-  },
-  {
     "deadline": "2026-11-14",
     "title": "AMD AI League",
     "org": "AMD and lablab.ai",
@@ -162,7 +151,7 @@
     "who": "Early-career to experienced AI governance researchers; full-time in London, Jun 7 to Aug 27, 2027. Visas sponsored",
     "india": "yes",
     "link": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
-    "checked": "2026-11-13"
+    "checked": "2026-11-14"
   },
   {
     "deadline": "2026-11-22",
@@ -213,11 +202,11 @@
     "title": "#BuildHybridAI 2026",
     "org": "Google (Firebase)",
     "kind": "hackathon",
-    "amount": "$30,000 in cash per the page; full prize list goes live November 9",
-    "who": "Anyone of legal age, solo or team, online; build with Firebase AI Logic hybrid inference. Rules go live Nov 9",
+    "amount": "$30,000 in cash, $10,000 grand prize, $3,000 for the best app per platform",
+    "who": "Anyone of legal age, online; Gen AI app on Firebase AI Logic hybrid inference. Not Brazil, Italy, Quebec",
     "india": "yes",
     "link": "https://firebasehybridaihackathon.devpost.com/",
-    "checked": "2026-11-07"
+    "checked": "2026-11-14"
   },
   {
     "deadline": "2026-11-30",
@@ -276,6 +265,17 @@
   },
   {
     "deadline": "2026-12-06",
+    "title": "Kaya AI Grand Challenge: The Dawn of Superintelligence",
+    "org": "Kaya AI",
+    "kind": "hackathon",
+    "amount": "$3,000 in cash: $1,500 each to the Students and Professionals winners",
+    "who": "Teams of 2 to 4: Indian college students or working professionals; build a construction agent. Finale in Mumbai, Dec 17",
+    "india": "yes",
+    "link": "https://kaya-ai-grand-challenge.devpost.com/",
+    "checked": "2026-11-14"
+  },
+  {
+    "deadline": "2026-12-06",
     "title": "Talos Fellowship, Spring 2027",
     "org": "Talos Network",
     "kind": "fellowship",
@@ -328,6 +328,17 @@
     "india": "yes",
     "link": "https://kotlinconf.com/contest/",
     "checked": "2026-11-07"
+  },
+  {
+    "deadline": "2026-12-07",
+    "title": "Learn AR with SPECS, Round 2",
+    "org": "Snap Inc. (Devpost)",
+    "kind": "hackathon",
+    "amount": "$2,500 in cash: $1,250 first, $750 second, $500 third",
+    "who": "Anyone of legal age, online; design an AR app for Snap's SPECS glasses and have a coding agent build it in Lens Studio, no glasses needed",
+    "india": "yes",
+    "link": "https://learn-specs.devpost.com/",
+    "checked": "2026-11-14"
   },
   {
     "deadline": "2026-12-11",
@@ -462,6 +473,17 @@
     "checked": "2026-11-12"
   },
   {
+    "deadline": "2027-01-01",
+    "title": "HackOut! 2027: Technology for Good",
+    "org": "BranchOut! Veritas Education Leaders",
+    "kind": "hackathon",
+    "amount": "$3,000 in cash: $1,000 grand prize, five $300 category prizes, $500 award",
+    "who": "High school students aged 13 to 18, grades 9 to 12, teams of 2 to 4, online; build in January 2027 and submit by January 31",
+    "india": "yes",
+    "link": "https://hackout-branchout.devpost.com/",
+    "checked": "2026-11-14"
+  },
+  {
     "deadline": "2027-01-03",
     "title": "Infineon Boss Battle in the AI Arena",
     "org": "Infineon on Hackster",
@@ -526,6 +548,17 @@
     "india": "yes",
     "link": "https://unitedhacks.hackunited.org/",
     "checked": "2026-11-10"
+  },
+  {
+    "deadline": "2027-01-11",
+    "title": "Open Agentic Web Challenge",
+    "org": "Cognizant (with MIT Project NANDA, Mozilla, AWS)",
+    "kind": "hackathon",
+    "amount": "$10,000 in cash: $5,000 first, $3,000 second, $2,000 third",
+    "who": "Anyone of legal age, solo, team or organization, online; build an open-source agentic website that follows the open agentic web spec",
+    "india": "yes",
+    "link": "https://cognizant-agenticweb.devpost.com/",
+    "checked": "2026-11-14"
   },
   {
     "deadline": "2027-01-13",
@@ -639,6 +672,17 @@
   },
   {
     "deadline": "rolling",
+    "title": "Thiel Fellowship",
+    "org": "Thiel Foundation",
+    "kind": "fellowship",
+    "amount": "$250,000 grant over two years, no equity taken",
+    "who": "Anyone aged 22 or younger without a university degree; must drop out of school if selected. Fellows are based all over the world",
+    "india": "unclear",
+    "link": "https://thielfellowship.org/",
+    "checked": "2026-11-14"
+  },
+  {
+    "deadline": "rolling",
     "title": "Sequoia Open Source Fellowship",
     "org": "Sequoia Capital",
     "kind": "fellowship",
@@ -691,17 +735,6 @@
     "india": "yes",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
     "checked": "2026-11-06"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Thiel Fellowship",
-    "org": "Thiel Foundation",
-    "kind": "fellowship",
-    "amount": "$250,000 over two years, no equity",
-    "who": "Anyone 22 or younger without a university degree who wants to build instead of attending college",
-    "india": "unclear",
-    "link": "https://thielfellowship.org/",
-    "checked": "2026-11-05"
   },
   {
     "deadline": "rolling",

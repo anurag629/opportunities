@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-11-14",
-    "title": "AMD AI League",
-    "org": "AMD and lablab.ai",
-    "kind": "competition",
-    "amount": "$5,000 cash podium ($2,500 first), $500 cash per match win",
-    "who": "Individuals only, online, join any day; AMD GPUs provided in hosted notebooks; league prizes need 5 Academy courses finished",
-    "india": "unclear",
-    "link": "https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge",
-    "checked": "2026-10-27"
-  },
-  {
-    "deadline": "2026-11-14",
-    "title": "NEAR Hackathon: Build Beyond Boundaries",
-    "org": "NEAR",
-    "kind": "hackathon",
-    "amount": "$250,000 paid in NEAR: $55K grand prize, $10K/$3K/$2K in each of 13 tracks",
-    "who": "Anyone, solo or teams, online; public repo and an X demo post required. No country rules on the page",
-    "india": "unclear",
-    "link": "https://nearhackathon.com/",
-    "checked": "2026-11-06"
-  },
-  {
     "deadline": "2026-11-15",
     "title": "2026 Epic AI MegaJam",
     "org": "Epic Games",
@@ -151,7 +129,7 @@
     "who": "Early-career to experienced AI governance researchers; full-time in London, Jun 7 to Aug 27, 2027. Visas sponsored",
     "india": "yes",
     "link": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
-    "checked": "2026-11-14"
+    "checked": "2026-11-15"
   },
   {
     "deadline": "2026-11-22",
@@ -218,6 +196,17 @@
     "india": "unclear",
     "link": "https://www.agentwarehack.com/",
     "checked": "2026-11-09"
+  },
+  {
+    "deadline": "2026-11-30",
+    "title": "EDSAFE AI Fellowships 2027 (Catalyst, Women in AI, Vanguard)",
+    "org": "EDSAFE AI Alliance (InnovateEDU)",
+    "kind": "fellowship",
+    "amount": "Free 12-month part-time program (2-4 hours a month), no honorarium",
+    "who": "Education leaders, and women in AI or data science working on AI in education; 2-4 hours a month, online",
+    "india": "yes",
+    "link": "https://www.edsafeai.org/fellowship",
+    "checked": "2026-11-15"
   },
   {
     "deadline": "2026-11-30",
@@ -341,6 +330,17 @@
     "checked": "2026-11-14"
   },
   {
+    "deadline": "2026-12-08",
+    "title": "Reddit's Game of the Day Hackathon",
+    "org": "Reddit",
+    "kind": "hackathon",
+    "amount": "$35,000 in cash, $15,000 for the Best Daily Game",
+    "who": "Anyone above the age of majority where they live, solo or teams, online; build a daily game on Reddit's Developer Platform (Devvit)",
+    "india": "yes",
+    "link": "https://redditgameofday2026.devpost.com/",
+    "checked": "2026-11-15"
+  },
+  {
     "deadline": "2026-12-11",
     "title": "AWS MSP AI Hackathon",
     "org": "Amazon Web Services, on Devpost",
@@ -350,6 +350,17 @@
     "india": "yes",
     "link": "https://aws-agentic-msp.devpost.com/",
     "checked": "2026-11-04"
+  },
+  {
+    "deadline": "2026-12-11",
+    "title": "Relate by Neo4j Hackathon",
+    "org": "Neo4j",
+    "kind": "hackathon",
+    "amount": "Hardware worth $6,197, a $3,799 Mac Studio M5 Max first; no cash",
+    "who": "18+ (or age of majority), online, teams allowed; build an AI agent on Relate, Neo4j's new open-source embedded graph database",
+    "india": "yes",
+    "link": "https://relate.devpost.com/",
+    "checked": "2026-11-15"
   },
   {
     "deadline": "2026-12-12",
@@ -555,10 +566,10 @@
     "org": "Cognizant (with MIT Project NANDA, Mozilla, AWS)",
     "kind": "hackathon",
     "amount": "$10,000 in cash: $5,000 first, $3,000 second, $2,000 third",
-    "who": "Anyone of legal age, solo, team or organization, online; build an open-source agentic website that follows the open agentic web spec",
+    "who": "Anyone of legal age, solo, team or organization, online; build an open-source agentic website or agent building block",
     "india": "yes",
     "link": "https://cognizant-agenticweb.devpost.com/",
-    "checked": "2026-11-14"
+    "checked": "2026-11-15"
   },
   {
     "deadline": "2027-01-13",
@@ -672,6 +683,17 @@
   },
   {
     "deadline": "rolling",
+    "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
+    "org": "Ethereum Foundation",
+    "kind": "grant",
+    "amount": "Grant size set by scope, paid in ETH against milestones",
+    "who": "Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome",
+    "india": "unclear",
+    "link": "https://esp.ethereum.foundation/applicants",
+    "checked": "2026-11-15"
+  },
+  {
+    "deadline": "rolling",
     "title": "Thiel Fellowship",
     "org": "Thiel Foundation",
     "kind": "fellowship",
@@ -779,17 +801,6 @@
     "india": "unclear",
     "link": "https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund",
     "checked": "2026-11-02"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
-    "org": "Ethereum Foundation",
-    "kind": "grant",
-    "amount": "Grant size set by scope, paid in ETH against milestones",
-    "who": "Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome",
-    "india": "unclear",
-    "link": "https://esp.ethereum.foundation/applicants",
-    "checked": "2026-10-29"
   },
   {
     "deadline": "rolling",

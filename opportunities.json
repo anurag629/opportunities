@@ -1,49 +1,5 @@
 [
   {
-    "deadline": "2026-11-15",
-    "title": "2026 Epic AI MegaJam",
-    "org": "Epic Games",
-    "kind": "hackathon",
-    "amount": "$65,000 in cash plus continuation grants up to $50,000 per team",
-    "who": "Developers 18+ with an Epic Games account, solo or up to 5; a game in Unreal Engine or UEFN, Nov 12 to 15, online. AI optional",
-    "india": "unclear",
-    "link": "https://itch.io/jam/2026-epic-ai-megajam",
-    "checked": "2026-11-07"
-  },
-  {
-    "deadline": "2026-11-15",
-    "title": "AI x Epistemics Research Sprint",
-    "org": "Apart Research",
-    "kind": "hackathon",
-    "amount": "$2,000 in cash ($1,000 first), free to join",
-    "who": "Anyone, no AI safety background needed, solo or teams of 1 to 5; online November 13 to 15, with local hubs including Bengaluru and Delhi",
-    "india": "yes",
-    "link": "https://apartresearch.com/sprints/ai-x-epistemics-research-sprint-2026-11-13-to-2026-11-15",
-    "checked": "2026-11-03"
-  },
-  {
-    "deadline": "2026-11-15",
-    "title": "Code for a Billion: Bharat Agentic-AI Hackathon",
-    "org": "Code for India",
-    "kind": "hackathon",
-    "amount": "Rs 1,50,000 first prize per track; Rs 18 lakh total",
-    "who": "Students, professionals and indie developers, solo or teams, anywhere; open-source agents for public-impact areas",
-    "india": "yes",
-    "link": "https://codeforindia.org/hackathon",
-    "checked": "2026-10-15"
-  },
-  {
-    "deadline": "2026-11-15",
-    "title": "UGREEN Hackathon 2026 on AI NAS",
-    "org": "UGREEN",
-    "kind": "hackathon",
-    "amount": "$46,000 in prizes",
-    "who": "Adults, solo or teams of up to 3, online; build on UGOS for UGREEN's AI NAS. Companies and many countries excluded",
-    "india": "no",
-    "link": "https://ugreenhackathon.devpost.com/",
-    "checked": "2026-10-23"
-  },
-  {
     "deadline": "2026-11-16",
     "title": "Plether Audit Competition",
     "org": "Plether on Immunefi",
@@ -364,6 +320,17 @@
   },
   {
     "deadline": "2026-12-12",
+    "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
+    "org": "World Federation of Engineering Organizations (WFEO)",
+    "kind": "hackathon",
+    "amount": "EUR 7,000 in prizes (EUR 4,000 / 2,000 / 1,000), free to enter",
+    "who": "Teams of 3 to 5 led by an engineering student or engineer under 30, any country; winners named in Rome, March 4, 2027",
+    "india": "yes",
+    "link": "https://worldengineeringday.net/hackathon/#h27-register",
+    "checked": "2026-11-16"
+  },
+  {
+    "deadline": "2026-12-12",
     "title": "HackerRank Orchestrate: Holiday Edition",
     "org": "HackerRank",
     "kind": "hackathon",
@@ -616,6 +583,17 @@
     "checked": "2026-11-02"
   },
   {
+    "deadline": "2027-02-12",
+    "title": "AI for Human Impact: A Global BASIS Hackathon",
+    "org": "BASIS Independent Silicon Valley and Stanford NNEA",
+    "kind": "hackathon",
+    "amount": "$10,200 in cash prizes",
+    "who": "High school students aged 13 to 19, teams of 2 to 4, online; register by Jan 16, 2027, build week Feb 6 to 12, 2027",
+    "india": "yes",
+    "link": "https://basisglobalhackathon.devpost.com/",
+    "checked": "2026-11-16"
+  },
+  {
     "deadline": "2027-02-28",
     "title": "Arbitrum Open House Sao Paulo: Online Buildathon",
     "org": "Arbitrum Foundation (on HackQuest)",
@@ -680,6 +658,28 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Claude Corps Fellowship, cohort 3",
+    "org": "Anthropic and CodePath",
+    "kind": "fellowship",
+    "amount": "$85,000 salary plus benefits for 12 months at a US nonprofit",
+    "who": "18+, early career (under two years full-time work), authorized to work in the US without sponsorship, willing to relocate; no degree needed",
+    "india": "no",
+    "link": "https://anthropic.com/claude-corps/fellow",
+    "checked": "2026-11-16"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Solana Foundation grants and convertible grants",
+    "org": "Solana Foundation",
+    "kind": "grant",
+    "amount": "Milestone-based grants sized to your budget; $100M+ given so far",
+    "who": "Anyone (individuals, teams, companies, academics) building open-source public goods for Solana",
+    "india": "yes",
+    "link": "https://airtable.com/app683f1deSq018D4/pagPjvaFp8VZsSD3A/form",
+    "checked": "2026-11-16"
   },
   {
     "deadline": "rolling",
@@ -801,16 +801,5 @@
     "india": "unclear",
     "link": "https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund",
     "checked": "2026-11-02"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Claude Corps Fellowship, cohort 3",
-    "org": "Anthropic and CodePath",
-    "kind": "fellowship",
-    "amount": "$85,000 salary plus benefits for 12 months at a US nonprofit",
-    "who": "18+, early career (under two years full-time work), authorized to work in the US without sponsorship, willing to relocate; no degree needed",
-    "india": "no",
-    "link": "https://anthropic.com/claude-corps/fellow",
-    "checked": "2026-10-28"
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-11-16",
-    "title": "Plether Audit Competition",
-    "org": "Plether on Immunefi",
-    "kind": "bounty",
-    "amount": "$80,000 USD reward pool if any bug is found",
-    "who": "Security researchers 18+, online smart contract audit; no OFAC-listed or Immunefi-restricted countries (list not on page)",
-    "india": "unclear",
-    "link": "https://immunefi.com/audit-competition/plether/information/",
-    "checked": "2026-11-11"
-  },
-  {
     "deadline": "2026-11-18",
     "title": "Meta VR Start Developer Competition 2026",
     "org": "Meta",
@@ -353,6 +342,17 @@
   },
   {
     "deadline": "2026-12-15",
+    "title": "IHS AI and the Workforce Research Grants",
+    "org": "Institute for Humane Studies (IHS)",
+    "kind": "grant",
+    "amount": "Up to $20,000 per scholar (larger awards possible for exceptional projects)",
+    "who": "Academic scholars researching how AI affects jobs; covers travel, datasets, journal fees",
+    "india": "unclear",
+    "link": "https://theihs.tfaforms.net/4830976",
+    "checked": "2026-11-17"
+  },
+  {
+    "deadline": "2026-12-15",
     "title": "MOPGA 2027 Visiting Fellowship for early-career researchers",
     "org": "Campus France (French government)",
     "kind": "fellowship",
@@ -449,6 +449,17 @@
     "india": "yes",
     "link": "https://genhacks-open.devpost.com/",
     "checked": "2026-11-12"
+  },
+  {
+    "deadline": "2026-12-31",
+    "title": "Microsoft AI Economy Institute Open Call 4: AI and Jobs",
+    "org": "Microsoft Research (AI Economy Institute)",
+    "kind": "grant",
+    "amount": "$75,000 per proposal, plus $20,000 travel outside North America",
+    "who": "University or research institute researchers worldwide; PIs need a PhD or equivalent; up to 2 PIs",
+    "india": "yes",
+    "link": "https://webportalapp.com/sp/login/2027_msr_aiei_open_call_4_portal",
+    "checked": "2026-11-17"
   },
   {
     "deadline": "2027-01-01",
@@ -572,6 +583,17 @@
     "checked": "2026-11-08"
   },
   {
+    "deadline": "2027-02-01",
+    "title": "Wikimedia Rapid Fund, Cycle 4",
+    "org": "Wikimedia Foundation",
+    "kind": "grant",
+    "amount": "$500 to $5,000, paid in local currency",
+    "who": "Wikimedia movement individuals, groups and orgs, 1-12 month projects; India and Nigeria excluded",
+    "india": "no",
+    "link": "https://meta.wikimedia.org/wiki/Grants:Project/Rapid",
+    "checked": "2026-11-17"
+  },
+  {
     "deadline": "2027-02-11",
     "title": "DeveloperWeek 2027 Hackathon",
     "org": "DevNetwork",
@@ -658,6 +680,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Neon Open Source Program",
+    "org": "Neon",
+    "kind": "program",
+    "amount": "$200,000+ a year in monthly sponsorships, 6-month terms",
+    "who": "Maintainers of active OSI-licensed public repos with GitHub Sponsors; no Neon or Postgres needed",
+    "india": "unclear",
+    "link": "https://neon.com/programs/open-source#openSource-form",
+    "checked": "2026-11-17"
   },
   {
     "deadline": "rolling",

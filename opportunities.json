@@ -45,6 +45,17 @@
   },
   {
     "deadline": "2026-11-22",
+    "title": "Anthropic Research Residency, London (remote UK)",
+    "org": "Anthropic",
+    "kind": "residency",
+    "amount": "GBP 265,000 to 375,000/year, pro-rated, for 6 weeks, 3 months or 6 months",
+    "who": "Experienced people moving into AI research, no ML background needed. Remote UK role; visas for placements of 3+ months",
+    "india": "yes",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+    "checked": "2026-11-18"
+  },
+  {
+    "deadline": "2026-11-22",
     "title": "Anthropic Residency 2026",
     "org": "Anthropic",
     "kind": "residency",
@@ -163,6 +174,17 @@
     "india": "yes",
     "link": "https://jlc3dp.com/news/easyeda-spark-contest",
     "checked": "2026-11-10"
+  },
+  {
+    "deadline": "2026-11-30",
+    "title": "Prototype Fund, Class 03",
+    "org": "Prototype Fund (German Federal Research Ministry)",
+    "kind": "grant",
+    "amount": "Up to EUR 158,000 per team, EUR 79,000 solo, for 6 months",
+    "who": "Open source developers resident and taxed in Germany, or teams of up to 4 based there; no companies",
+    "india": "no",
+    "link": "https://www.prototypefund.de/en/application",
+    "checked": "2026-11-18"
   },
   {
     "deadline": "2026-11-30",
@@ -680,6 +702,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+    "org": "Anthropic",
+    "kind": "fellowship",
+    "amount": "$4,615 a week (or GBP 3,440) plus compute, 4 months full-time",
+    "who": "Python-fluent researchers with work rights in the US, UK or Canada, based there; no visas. Next cohort Jan 2027",
+    "india": "no",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+    "checked": "2026-11-18"
   },
   {
     "deadline": "rolling",

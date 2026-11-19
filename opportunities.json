@@ -1,16 +1,5 @@
 [
   {
-    "deadline": "2026-11-18",
-    "title": "Meta VR Start Developer Competition 2026",
-    "org": "Meta",
-    "kind": "competition",
-    "amount": "$1M in cash prizes, 20 awards, $100,000 top prize in each track",
-    "who": "Developers 18+, online, building for Meta Quest or Meta VR Glasses; the submitter must join the Meta VR Start program",
-    "india": "yes",
-    "link": "https://start-developer-competition-26.devpost.com/",
-    "checked": "2026-10-25"
-  },
-  {
     "deadline": "2026-11-20",
     "title": "Dakar Bitcoin Hack by BTrust",
     "org": "BTrust",
@@ -481,7 +470,7 @@
     "who": "University or research institute researchers worldwide; PIs need a PhD or equivalent; up to 2 PIs",
     "india": "yes",
     "link": "https://webportalapp.com/sp/login/2027_msr_aiei_open_call_4_portal",
-    "checked": "2026-11-17"
+    "checked": "2026-11-19"
   },
   {
     "deadline": "2027-01-01",
@@ -572,6 +561,17 @@
     "checked": "2026-11-15"
   },
   {
+    "deadline": "2027-01-12",
+    "title": "Cloud9 x JetBrains: Sky's The Limit Hackathon 2026",
+    "org": "Cloud9 Esports with JetBrains (on Devpost)",
+    "kind": "hackathon",
+    "amount": "$25,000 cash; $6,000 plus a GDC trip per category winner",
+    "who": "Anyone of legal age, online, solo or team; a VALORANT or LoL coaching tool or event mini game built with a JetBrains tool",
+    "india": "yes",
+    "link": "https://cloud9.devpost.com/",
+    "checked": "2026-11-19"
+  },
+  {
     "deadline": "2027-01-13",
     "title": "Google Quantum AI: Verifiable Quantum Circuit Compilation",
     "org": "Google Quantum AI (Kaggle)",
@@ -603,6 +603,17 @@
     "india": "yes",
     "link": "https://www.tindie.com/campaigns/ai-hardware-2026/",
     "checked": "2026-11-08"
+  },
+  {
+    "deadline": "2027-02-01",
+    "title": "Build with AI: PICO Space Program",
+    "org": "XR Bootcamp with PICO (on Devpost)",
+    "kind": "hackathon",
+    "amount": "$50,000 in cash, top prize $10,000, 32 prizes",
+    "who": "18+ in the US, Canada (not Quebec), EU/EEA, UK, Switzerland, Turkiye; a PICO OS6 spatial app, emulator OK",
+    "india": "no",
+    "link": "https://pico-space-program.devpost.com/",
+    "checked": "2026-11-19"
   },
   {
     "deadline": "2027-02-01",
@@ -705,6 +716,28 @@
   },
   {
     "deadline": "rolling",
+    "title": "Sequoia Open Source Fellowship",
+    "org": "Sequoia Capital",
+    "kind": "fellowship",
+    "amount": "Living expenses covered for 6 to 12 months, no equity",
+    "who": "Open source creators whose projects have real-world adoption; location agnostic; 2 to 3 fellows a year",
+    "india": "yes",
+    "link": "https://sequoiacap.com/oss",
+    "checked": "2026-11-19"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Internet Freedom Fund",
+    "org": "Open Technology Fund",
+    "kind": "grant",
+    "amount": "$10,000 to $900,000 for up to 24 months (ideal ask $50,000 to $200,000)",
+    "who": "Individuals 18+ or organizations of any nationality building internet freedom tech; not US-sanctioned countries",
+    "india": "yes",
+    "link": "https://apply.opentech.fund/internet-freedom-fund-concept-note/",
+    "checked": "2026-11-19"
+  },
+  {
+    "deadline": "rolling",
     "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
     "org": "Anthropic",
     "kind": "fellowship",
@@ -771,17 +804,6 @@
   },
   {
     "deadline": "rolling",
-    "title": "Sequoia Open Source Fellowship",
-    "org": "Sequoia Capital",
-    "kind": "fellowship",
-    "amount": "Living expenses covered for 6 to 12 months, no equity",
-    "who": "Open source creators whose projects have real-world adoption; location agnostic; 2 to 3 fellows a year",
-    "india": "yes",
-    "link": "https://sequoiacap.com/oss",
-    "checked": "2026-11-13"
-  },
-  {
-    "deadline": "rolling",
     "title": "Emergent Ventures",
     "org": "Mercatus Center",
     "kind": "grant",
@@ -845,17 +867,6 @@
     "india": "no",
     "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
     "checked": "2026-11-04"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Internet Freedom Fund",
-    "org": "Open Technology Fund",
-    "kind": "grant",
-    "amount": "$10,000 to $900,000 for up to 24 months (ideal ask $50,000 to $200,000)",
-    "who": "Individuals 18+ or organizations of any nationality building internet freedom tech, research or digital security",
-    "india": "yes",
-    "link": "https://apply.opentech.fund/internet-freedom-fund-concept-note/",
-    "checked": "2026-11-02"
   },
   {
     "deadline": "rolling",

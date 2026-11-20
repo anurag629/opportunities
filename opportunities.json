@@ -716,6 +716,61 @@
   },
   {
     "deadline": "rolling",
+    "title": "Z Fellows",
+    "org": "Z Fellows",
+    "kind": "fellowship",
+    "amount": "Optional $10,000 investment at a $1B cap, one-week program",
+    "who": "Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC",
+    "india": "yes",
+    "link": "https://www.zfellows.com/",
+    "checked": "2026-11-20"
+  },
+  {
+    "deadline": "rolling",
+    "title": "GitHub Secure Open Source Fund",
+    "org": "GitHub",
+    "kind": "grant",
+    "amount": "$10,000 per project, paid in three parts, plus security training",
+    "who": "Maintainers 18+ of a licensed open source project with traction, solo or a team of two, in a GitHub Sponsors region",
+    "india": "yes",
+    "link": "https://github.com/open-source/github-secure-open-source-fund",
+    "checked": "2026-11-20"
+  },
+  {
+    "deadline": "rolling",
+    "title": "FLOSS/fund",
+    "org": "Zerodha",
+    "kind": "grant",
+    "amount": "$10,000 to $100,000 a year per project",
+    "who": "Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly",
+    "india": "yes",
+    "link": "https://floss.fund/",
+    "checked": "2026-11-20"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Transformative AI Fund",
+    "org": "EA Funds",
+    "kind": "grant",
+    "amount": "Typically $10k to $150k, rarely over $300k",
+    "who": "Individuals and new or existing organizations working to reduce catastrophic risks from advanced AI",
+    "india": "unclear",
+    "link": "https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund",
+    "checked": "2026-11-20"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Anthropic Fellows Program, ML Systems and Reinforcement Learning",
+    "org": "Anthropic",
+    "kind": "fellowship",
+    "amount": "4,615 USD a week stipend plus about $15k a month for compute, 4 months full-time",
+    "who": "Python-fluent, any experience level; must have US, UK or Canada work authorization and be there, no visas",
+    "india": "no",
+    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "checked": "2026-11-20"
+  },
+  {
+    "deadline": "rolling",
     "title": "Sequoia Open Source Fellowship",
     "org": "Sequoia Capital",
     "kind": "fellowship",
@@ -815,28 +870,6 @@
   },
   {
     "deadline": "rolling",
-    "title": "GitHub Secure Open Source Fund",
-    "org": "GitHub",
-    "kind": "grant",
-    "amount": "$10,000 per project, paid in three parts, plus security training",
-    "who": "Maintainers 18+ of a licensed open source project with traction, solo or a team of two, in a GitHub Sponsors region",
-    "india": "yes",
-    "link": "https://github.com/open-source/github-secure-open-source-fund",
-    "checked": "2026-11-07"
-  },
-  {
-    "deadline": "rolling",
-    "title": "FLOSS/fund",
-    "org": "Zerodha",
-    "kind": "grant",
-    "amount": "$10,000 to $100,000 a year per project",
-    "who": "Existing, widely used free and open source projects, run by individuals or groups anywhere; reviewed quarterly",
-    "india": "yes",
-    "link": "https://floss.fund/",
-    "checked": "2026-11-06"
-  },
-  {
-    "deadline": "rolling",
     "title": "AI for Science program (Claude API credits)",
     "org": "Anthropic",
     "kind": "grant",
@@ -845,38 +878,5 @@
     "india": "yes",
     "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
     "checked": "2026-11-06"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Z Fellows",
-    "org": "Z Fellows",
-    "kind": "fellowship",
-    "amount": "Optional $10,000 investment at a $1B cap, one-week program",
-    "who": "Anyone building, solo or with co-founders, no company needed; based anywhere, mostly virtual with the last day in SF or NYC",
-    "india": "yes",
-    "link": "https://www.zfellows.com/",
-    "checked": "2026-11-05"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Anthropic Fellows Program, ML Systems and Reinforcement Learning",
-    "org": "Anthropic",
-    "kind": "fellowship",
-    "amount": "3,850 USD a week stipend plus about $15k a month for compute, 4 months full-time",
-    "who": "Python-fluent, any experience level; must have US, UK or Canada work authorization and be there, no visas",
-    "india": "no",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-    "checked": "2026-11-04"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Transformative AI Fund",
-    "org": "EA Funds",
-    "kind": "grant",
-    "amount": "Typically $10k to $150k, rarely over $300k",
-    "who": "Individuals and new or existing organizations working to reduce catastrophic risks from advanced AI",
-    "india": "unclear",
-    "link": "https://av20jp3z.paperform.co/?fund=Transformative%20AI%20Fund",
-    "checked": "2026-11-02"
   }
 ]

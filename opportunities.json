@@ -1,38 +1,5 @@
 [
   {
-    "deadline": "2026-11-20",
-    "title": "Dakar Bitcoin Hack by BTrust",
-    "org": "BTrust",
-    "kind": "hackathon",
-    "amount": "$900 in BTC (500,000 sats first prize)",
-    "who": "Residents of Africa, online; build tools on Bitcoin, Lightning, nostr or AI for African users",
-    "india": "no",
-    "link": "https://dakar-bitcoin-hack-2026.devpost.com/",
-    "checked": "2026-10-29"
-  },
-  {
-    "deadline": "2026-11-20",
-    "title": "Impact AI Fellowship 2027",
-    "org": "HIIG (Humboldt Institute for Internet and Society)",
-    "kind": "fellowship",
-    "amount": "EUR 5,000 stipend for 10 weeks",
-    "who": "AI people from academia, journalism, civil society, public bodies, companies; mostly remote, 2 weeks in Berlin",
-    "india": "unclear",
-    "link": "https://www.hiig.de/en/impact-ai-call-for-fellows/",
-    "checked": "2026-11-13"
-  },
-  {
-    "deadline": "2026-11-20",
-    "title": "Ring Appstore Challenge 2026",
-    "org": "Ring",
-    "kind": "competition",
-    "amount": "$500,000: $250,000 grand prize, then $100,000 and two $75,000",
-    "who": "US college students 18+, residents of the 50 states or DC; build and launch an app on the Ring Appstore",
-    "india": "no",
-    "link": "https://ring.com/appchallenge",
-    "checked": "2026-11-08"
-  },
-  {
     "deadline": "2026-11-22",
     "title": "Anthropic Research Residency, London (remote UK)",
     "org": "Anthropic",
@@ -64,6 +31,17 @@
     "india": "no",
     "link": "https://www.governance.ai/post/dc-summer-fellowship-2027",
     "checked": "2026-11-11"
+  },
+  {
+    "deadline": "2026-11-22",
+    "title": "GovAI UK Summer Fellowship 2027 (Applied Track)",
+    "org": "Centre for the Governance of AI (GovAI)",
+    "kind": "fellowship",
+    "amount": "GBP 14,000 salary plus travel support to London",
+    "who": "Candidates from a broad set of professional backgrounds; full-time, in person in London, Jun 7 to Aug 27, 2027. Visas sponsored",
+    "india": "yes",
+    "link": "https://airtable.com/appQlsmwDSAX5iXXh/pag7E1Rea0n0xsixr/form",
+    "checked": "2026-11-21"
   },
   {
     "deadline": "2026-11-22",
@@ -284,6 +262,17 @@
     "india": "yes",
     "link": "https://learn-specs.devpost.com/",
     "checked": "2026-11-14"
+  },
+  {
+    "deadline": "2026-12-07",
+    "title": "SLAY HACKS 2026",
+    "org": "SLAY HACKS Student Community (on Devpost)",
+    "kind": "hackathon",
+    "amount": "$4,500 cash: $2,000 grand prize, $1,200 second, $800 third, $500 beginner",
+    "who": "Students only, above the age of majority, solo or teams, online; any project with a meaningful use of AI",
+    "india": "yes",
+    "link": "https://slayy-hacks.devpost.com/",
+    "checked": "2026-11-21"
   },
   {
     "deadline": "2026-12-08",
@@ -581,6 +570,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/google-verifiable-quantum-circuit-compilation",
     "checked": "2026-10-27"
+  },
+  {
+    "deadline": "2027-01-19",
+    "title": "Where the Wild Features Are: literacy speech modeling",
+    "org": "K-12 AI Infrastructure Platform (run by DrivenData)",
+    "kind": "competition",
+    "amount": "$50,000 in prizes: $20,000 first, $15,000 second, $10,000 third, $5,000 fourth",
+    "who": "Anyone 18+ outside US-sanctioned areas, solo or teams; predict kindergarten reading scores from audio. Write-ups due Feb 8",
+    "india": "yes",
+    "link": "https://platform.k12-ai-infrastructure.org/competitions/4/literacy-speech-modeling/",
+    "checked": "2026-11-21"
   },
   {
     "deadline": "2027-01-24",

@@ -195,7 +195,7 @@
     "who": "Teams of 2 to 4: Indian college students or working professionals; build a construction agent. Finale in Mumbai, Dec 17",
     "india": "yes",
     "link": "https://kaya-ai-grand-challenge.devpost.com/",
-    "checked": "2026-11-14"
+    "checked": "2026-11-22"
   },
   {
     "deadline": "2026-12-06",
@@ -272,7 +272,7 @@
     "who": "Students only, above the age of majority, solo or teams, online; any project with a meaningful use of AI",
     "india": "yes",
     "link": "https://slayy-hacks.devpost.com/",
-    "checked": "2026-11-21"
+    "checked": "2026-11-22"
   },
   {
     "deadline": "2026-12-08",
@@ -316,7 +316,7 @@
     "who": "Teams of 3 to 5 led by an engineering student or engineer under 30, any country; winners named in Rome, March 4, 2027",
     "india": "yes",
     "link": "https://worldengineeringday.net/hackathon/#h27-register",
-    "checked": "2026-11-16"
+    "checked": "2026-11-22"
   },
   {
     "deadline": "2026-12-12",
@@ -459,7 +459,7 @@
     "who": "University or research institute researchers worldwide; PIs need a PhD or equivalent; up to 2 PIs",
     "india": "yes",
     "link": "https://webportalapp.com/sp/login/2027_msr_aiei_open_call_4_portal",
-    "checked": "2026-11-19"
+    "checked": "2026-11-22"
   },
   {
     "deadline": "2027-01-01",
@@ -580,7 +580,7 @@
     "who": "Anyone 18+ outside US-sanctioned areas, solo or teams; predict kindergarten reading scores from audio. Write-ups due Feb 8",
     "india": "yes",
     "link": "https://platform.k12-ai-infrastructure.org/competitions/4/literacy-speech-modeling/",
-    "checked": "2026-11-21"
+    "checked": "2026-11-22"
   },
   {
     "deadline": "2027-01-24",
@@ -716,6 +716,39 @@
   },
   {
     "deadline": "rolling",
+    "title": "Thiel Fellowship",
+    "org": "Thiel Foundation",
+    "kind": "fellowship",
+    "amount": "$250,000 grant over two years, no equity taken",
+    "who": "Anyone aged 22 or younger without a university degree; must drop out of school if selected. Fellows are based all over the world",
+    "india": "unclear",
+    "link": "https://thielfellowship.org/",
+    "checked": "2026-11-22"
+  },
+  {
+    "deadline": "rolling",
+    "title": "AI for Science program (Claude API credits)",
+    "org": "Anthropic",
+    "kind": "grant",
+    "amount": "Up to $50,000 in Claude API credits per project",
+    "who": "Researchers in any scientific field whose work AI can meaningfully speed up",
+    "india": "yes",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
+    "checked": "2026-11-22"
+  },
+  {
+    "deadline": "rolling",
+    "title": "OpenAI Researcher Access Program",
+    "org": "OpenAI",
+    "kind": "grant",
+    "amount": "Up to $1,000 in OpenAI API credits, valid 12 months",
+    "who": "Early-stage researchers on responsible AI, risk mitigation or AI's societal impact, in OpenAI API countries",
+    "india": "yes",
+    "link": "https://openai.com/form/researcher-access-program/",
+    "checked": "2026-11-22"
+  },
+  {
+    "deadline": "rolling",
     "title": "Z Fellows",
     "org": "Z Fellows",
     "kind": "fellowship",
@@ -848,17 +881,6 @@
   },
   {
     "deadline": "rolling",
-    "title": "Thiel Fellowship",
-    "org": "Thiel Foundation",
-    "kind": "fellowship",
-    "amount": "$250,000 grant over two years, no equity taken",
-    "who": "Anyone aged 22 or younger without a university degree; must drop out of school if selected. Fellows are based all over the world",
-    "india": "unclear",
-    "link": "https://thielfellowship.org/",
-    "checked": "2026-11-14"
-  },
-  {
-    "deadline": "rolling",
     "title": "Emergent Ventures",
     "org": "Mercatus Center",
     "kind": "grant",
@@ -867,16 +889,5 @@
     "india": "yes",
     "link": "https://mercatus.tfaforms.net/5099527",
     "checked": "2026-11-08"
-  },
-  {
-    "deadline": "rolling",
-    "title": "AI for Science program (Claude API credits)",
-    "org": "Anthropic",
-    "kind": "grant",
-    "amount": "Up to $50,000 in Claude API credits per project",
-    "who": "Researchers in any scientific field whose work AI can meaningfully speed up",
-    "india": "yes",
-    "link": "https://docs.google.com/forms/d/e/1FAIpQLSfwDGfVg2lHJ0cc0oF_ilEnjvr_r4_paYi7VLlr5cLNXASdvA/viewform",
-    "checked": "2026-11-06"
   }
 ]

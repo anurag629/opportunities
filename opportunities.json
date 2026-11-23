@@ -1,82 +1,5 @@
 [
   {
-    "deadline": "2026-11-22",
-    "title": "Anthropic Research Residency, London (remote UK)",
-    "org": "Anthropic",
-    "kind": "residency",
-    "amount": "GBP 265,000 to 375,000/year, pro-rated, for 6 weeks, 3 months or 6 months",
-    "who": "Experienced people moving into AI research, no ML background needed. Remote UK role; visas for placements of 3+ months",
-    "india": "yes",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
-    "checked": "2026-11-18"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "Anthropic Residency 2026",
-    "org": "Anthropic",
-    "kind": "residency",
-    "amount": "$350,000 to $500,000/year, pro-rated, for 6 weeks to 6 months",
-    "who": "Professors, technical founders, staff engineers moving into AI safety; no ML background needed. SF preferred, visas for 3+ months",
-    "india": "yes",
-    "link": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "checked": "2026-11-11"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "GovAI DC Summer Fellowship 2027",
-    "org": "Centre for the Governance of AI (GovAI)",
-    "kind": "fellowship",
-    "amount": "$24,500 stipend plus travel support to DC",
-    "who": "Right to work in the US required, no visa sponsorship; US AI policy, in person in DC, Jun 7 to Aug 27, 2027",
-    "india": "no",
-    "link": "https://www.governance.ai/post/dc-summer-fellowship-2027",
-    "checked": "2026-11-11"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "GovAI UK Summer Fellowship 2027 (Applied Track)",
-    "org": "Centre for the Governance of AI (GovAI)",
-    "kind": "fellowship",
-    "amount": "GBP 14,000 salary plus travel support to London",
-    "who": "Candidates from a broad set of professional backgrounds; full-time, in person in London, Jun 7 to Aug 27, 2027. Visas sponsored",
-    "india": "yes",
-    "link": "https://airtable.com/appQlsmwDSAX5iXXh/pag7E1Rea0n0xsixr/form",
-    "checked": "2026-11-21"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "GovAI UK Summer Fellowship 2027 (Research Track)",
-    "org": "Centre for the Governance of AI (GovAI)",
-    "kind": "fellowship",
-    "amount": "GBP 14,000 salary plus travel support to London",
-    "who": "Early-career to experienced AI governance researchers; full-time in London, Jun 7 to Aug 27, 2027. Visas sponsored",
-    "india": "yes",
-    "link": "https://www.governance.ai/post/uk-summer-fellowship-2027-research-track",
-    "checked": "2026-11-15"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "Internet Society Fellowship Program 2027",
-    "org": "Internet Society",
-    "kind": "fellowship",
-    "amount": "Up to $5,000 project stipend, a mentor and event travel support",
-    "who": "Anyone with strong English; finish free training by Nov 22, then apply by Dec 18. 10 months, 4+ hours a week",
-    "india": "unclear",
-    "link": "https://www.internetsociety.org/fellowship/",
-    "checked": "2026-11-07"
-  },
-  {
-    "deadline": "2026-11-22",
-    "title": "Tarbell Fellowship 2027-28",
-    "org": "Tarbell Center for AI Journalism",
-    "kind": "fellowship",
-    "amount": "$75,000 to $120,000 salary ($115,000 to $135,000 for senior fellows)",
-    "who": "Journalists and AI experts covering AI, 18+ by June 7, 2027, no degree required; placements in partner newsrooms in the US, UK and Hong Kong",
-    "india": "unclear",
-    "link": "https://airtable.com/appT0usUxWCyFtqOE/pag5NuccaHiv8yPSg/form",
-    "checked": "2026-10-15"
-  },
-  {
     "deadline": "2026-11-25",
     "title": "Gemma 4 Developer Agent Competition",
     "org": "Google DeepMind (Kaggle)",
@@ -163,6 +86,17 @@
     "india": "yes",
     "link": "https://www.elektormagazine.com/stm32cube-innovation-challenge",
     "checked": "2026-11-06"
+  },
+  {
+    "deadline": "2026-12-01",
+    "title": "Base Everest Audit Competition",
+    "org": "Base on Immunefi",
+    "kind": "bounty",
+    "amount": "Up to $250,000 USD pool, paid in USDC on Base",
+    "who": "Security researchers 18+ who pass KYC; Rust and Solidity; no Immunefi-restricted countries (list not on page)",
+    "india": "unclear",
+    "link": "https://immunefi.com/audit-competition/audit-comp-base-everest/information/",
+    "checked": "2026-11-23"
   },
   {
     "deadline": "2026-12-03",
@@ -339,6 +273,17 @@
     "india": "yes",
     "link": "https://apartresearch.com/sprints/agent-attribution-2026",
     "checked": "2026-11-09"
+  },
+  {
+    "deadline": "2026-12-13",
+    "title": "Recurse Center, Winter 2 2027 batch",
+    "org": "Recurse Center",
+    "kind": "program",
+    "amount": "Free 6 or 12 week programming retreat (no fee, no stipend), remote or in NYC",
+    "who": "Programmers; remote from anywhere or in NYC; batch Jan 4 to Mar 26, 2027; free; no visa sponsorship",
+    "india": "yes",
+    "link": "https://www.recurse.com/apply",
+    "checked": "2026-11-23"
   },
   {
     "deadline": "2026-12-15",
@@ -572,6 +517,17 @@
     "checked": "2026-10-27"
   },
   {
+    "deadline": "2027-01-18",
+    "title": "Cosmo Hacks 2026",
+    "org": "Cosmo Hacks",
+    "kind": "hackathon",
+    "amount": "$700 confirmed cash prize pool plus sponsor credits",
+    "who": "Students 13+ only (middle school to PhD), solo or teams up to 4, online; build window Dec 19, 2026 to Jan 18, 2027",
+    "india": "yes",
+    "link": "https://cosmohacks.devpost.com/",
+    "checked": "2026-11-23"
+  },
+  {
     "deadline": "2027-01-19",
     "title": "Where the Wild Features Are: literacy speech modeling",
     "org": "K-12 AI Infrastructure Platform (run by DrivenData)",
@@ -713,6 +669,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Emergent Ventures",
+    "org": "Mercatus Center",
+    "kind": "grant",
+    "amount": "Grants, size not stated; a tranche for India-focused projects",
+    "who": "Anyone 13+ anywhere with a scalable, zero-to-one idea",
+    "india": "yes",
+    "link": "https://mercatus.tfaforms.net/5099527",
+    "checked": "2026-11-23"
   },
   {
     "deadline": "rolling",
@@ -878,16 +845,5 @@
     "india": "unclear",
     "link": "https://esp.ethereum.foundation/applicants",
     "checked": "2026-11-15"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Emergent Ventures",
-    "org": "Mercatus Center",
-    "kind": "grant",
-    "amount": "Grants, size not stated; a tranche for India-focused projects",
-    "who": "Anyone 13+ anywhere with a scalable, zero-to-one idea; applications written with AI (beyond proofreading) are rejected",
-    "india": "yes",
-    "link": "https://mercatus.tfaforms.net/5099527",
-    "checked": "2026-11-08"
   }
 ]

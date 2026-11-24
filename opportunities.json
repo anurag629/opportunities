@@ -99,6 +99,17 @@
     "checked": "2026-11-23"
   },
   {
+    "deadline": "2026-12-02",
+    "title": "Deltakit Community Fund, 2027 Q1",
+    "org": "Unitary Foundation with Riverlane",
+    "kind": "grant",
+    "amount": "Up to $4,000 plus mentorship, no equity",
+    "who": "Contributors to Riverlane's open source Deltakit (quantum error correction). Global except EAR D:1/D:5, OFAC",
+    "india": "yes",
+    "link": "https://forms.gle/VxeJZhtSuRMRjpSaA",
+    "checked": "2026-11-24"
+  },
+  {
     "deadline": "2026-12-03",
     "title": "Geologic Enhanced Mapping System (GEMS) Prize Challenge",
     "org": "U.S. Department of Energy (run by DrivenData)",
@@ -287,6 +298,17 @@
   },
   {
     "deadline": "2026-12-15",
+    "title": "Fast Grants for AI and Health",
+    "org": "Biswas Family Foundation",
+    "kind": "grant",
+    "amount": "$25,000, $50,000 or $100,000 for a 12-month project",
+    "who": "Academic researchers worldwide, any career stage; paid to the institution, which must qualify for a US foundation gift",
+    "india": "yes",
+    "link": "https://airtable.com/appvoZqVg3b2ZuHln/pagqXTdALAvgT7PJB/form",
+    "checked": "2026-11-24"
+  },
+  {
+    "deadline": "2026-12-15",
     "title": "IHS AI and the Workforce Research Grants",
     "org": "Institute for Humane Studies (IHS)",
     "kind": "grant",
@@ -339,6 +361,17 @@
     "india": "yes",
     "link": "https://ai-agents-founders-hetic-26.devpost.com/",
     "checked": "2026-11-10"
+  },
+  {
+    "deadline": "2026-12-18",
+    "title": "Unity Fellowship 2027",
+    "org": "Unity Technologies",
+    "kind": "fellowship",
+    "amount": "$50,000 cash each for 10 indie game teams, no equity",
+    "who": "Indie studios or individuals 18+ with a playable Unity game about a year from launch. Not Brazil, Italy, Quebec",
+    "india": "yes",
+    "link": "https://unity.com/fellowship",
+    "checked": "2026-11-24"
   },
   {
     "deadline": "2026-12-20",
@@ -416,6 +449,17 @@
     "india": "yes",
     "link": "https://hackout-branchout.devpost.com/",
     "checked": "2026-11-14"
+  },
+  {
+    "deadline": "2027-01-02",
+    "title": "Lockdown: Make the Agent Break Its Own Rules",
+    "org": "huntr",
+    "kind": "competition",
+    "amount": "$15,000 in prizes, $1,600 for first on the main board",
+    "who": "Humans only: prompt-attack an AI coding agent to leak a key, push a secret or delete a file. Paid via Stripe",
+    "india": "unclear",
+    "link": "https://huntr.com/challenges/2IcSieNAjMSh0OAMoGhrbZ/v1/rules",
+    "checked": "2026-11-24"
   },
   {
     "deadline": "2027-01-03",
@@ -669,6 +713,28 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "GraphQL Community Grant Program",
+    "org": "GraphQL Foundation",
+    "kind": "grant",
+    "amount": "$1,000 to $10,000 per application",
+    "who": "Individuals (no companies) paid legally by a US org, for work on github.com/graphql projects; reply in 3-4 weeks",
+    "india": "yes",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSciopqGoQE2hBhxsb5E6dq12VrD221Zv4dsGWa1nQM35FT1nA/viewform",
+    "checked": "2026-11-24"
+  },
+  {
+    "deadline": "rolling",
+    "title": "ElevenLabs Startup Grants",
+    "org": "ElevenLabs",
+    "kind": "program",
+    "amount": "12 months free, 33M characters (680+ hours of Agents)",
+    "who": "Startups under 25 employees building a new product, with a business email; no agencies or SMBs. Countries not stated",
+    "india": "unclear",
+    "link": "https://elevenlabs.io/grants-application",
+    "checked": "2026-11-24"
   },
   {
     "deadline": "rolling",

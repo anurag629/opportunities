@@ -22,6 +22,17 @@
     "checked": "2026-11-07"
   },
   {
+    "deadline": "2026-11-29",
+    "title": "AI Safety Camp 12th edition (2027), team member applications",
+    "org": "AI Safety Camp",
+    "kind": "program",
+    "amount": "Free online part-time research program on a team; no stipend listed",
+    "who": "Anyone who fits a project's skill requirements; 10 hours a week, online, Jan 9 to Apr 26, 2027",
+    "india": "unclear",
+    "link": "https://docs.google.com/forms/d/e/1FAIpQLSf1X4GK9aHuGb1O_QdqrAB4AZ22wXowe4Kk6rTOOgEzKNJ6Sg/viewform",
+    "checked": "2026-11-25"
+  },
+  {
     "deadline": "2026-11-30",
     "title": "#BuildHybridAI 2026",
     "org": "Google (Firebase)",
@@ -561,6 +572,17 @@
     "checked": "2026-10-27"
   },
   {
+    "deadline": "2027-01-13",
+    "title": "SPAR Spring 2027 (AI safety research mentorship)",
+    "org": "SPAR (Kairos Project)",
+    "kind": "program",
+    "amount": "Unpaid; project compute and API costs covered",
+    "who": "Anyone 13+, no degree needed, fully virtual, 5 to 40 hours a week; applications open December 16",
+    "india": "yes",
+    "link": "https://sparai.org/",
+    "checked": "2026-11-25"
+  },
+  {
     "deadline": "2027-01-18",
     "title": "Cosmo Hacks 2026",
     "org": "Cosmo Hacks",
@@ -713,6 +735,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/squares-in-squares",
     "checked": "2026-10-25"
+  },
+  {
+    "deadline": "rolling",
+    "title": "a16z speedrun SR009",
+    "org": "Andreessen Horowitz (a16z)",
+    "kind": "accelerator",
+    "amount": "Up to $1M: $500K for 10% on a SAFE, $500K more later",
+    "who": "Early founders from anywhere; applications after Nov 1 go to the next residency, SR009, starting late July 2027 in San Francisco",
+    "india": "yes",
+    "link": "https://speedrun.a16z.com/apply",
+    "checked": "2026-11-25"
   },
   {
     "deadline": "rolling",

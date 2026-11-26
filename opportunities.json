@@ -1,27 +1,5 @@
 [
   {
-    "deadline": "2026-11-25",
-    "title": "Gemma 4 Developer Agent Competition",
-    "org": "Google DeepMind (Kaggle)",
-    "kind": "competition",
-    "amount": "$110,000 total, $37,000 first place, $35,000 paper award",
-    "who": "Anyone 18+ on Kaggle, solo or team; post-train Gemma 4 into an offline coding agent. Final submission December 2",
-    "india": "yes",
-    "link": "https://www.kaggle.com/competitions/gemma-4-developer-agent",
-    "checked": "2026-10-25"
-  },
-  {
-    "deadline": "2026-11-25",
-    "title": "HackWithAditya",
-    "org": "Aditya University",
-    "kind": "hackathon",
-    "amount": "Rs 5,00,000 prize pool, free first round",
-    "who": "Students in India, teams of 4 to 6; online prototype round, then a 48-hour build at Aditya University",
-    "india": "yes",
-    "link": "https://hackwithaditya.devpost.com/",
-    "checked": "2026-11-07"
-  },
-  {
     "deadline": "2026-11-29",
     "title": "AI Safety Camp 12th edition (2027), team member applications",
     "org": "AI Safety Camp",
@@ -167,13 +145,13 @@
   {
     "deadline": "2026-12-06",
     "title": "Threat Intelligence and Threat Modelling Hackathon",
-    "org": "Apart Research and SL5",
+    "org": "Apart Research",
     "kind": "hackathon",
     "amount": "$5,000 in cash ($2,500 first), free to join",
-    "who": "Anyone, no background needed, teams of 1 to 5; online December 4 to 6; use LLMs for threat intelligence and threat modelling",
+    "who": "Engineers, researchers and practitioners at any career stage; online, December 4 to 6, with optional hubs in San Francisco and Bengaluru",
     "india": "yes",
     "link": "https://apartresearch.com/sprints/threat-intelligence-threat-modelling-2026",
-    "checked": "2026-11-09"
+    "checked": "2026-11-26"
   },
   {
     "deadline": "2026-12-07",
@@ -301,11 +279,11 @@
     "title": "Recurse Center, Winter 2 2027 batch",
     "org": "Recurse Center",
     "kind": "program",
-    "amount": "Free 6 or 12 week programming retreat (no fee, no stipend), remote or in NYC",
-    "who": "Programmers; remote from anywhere or in NYC; batch Jan 4 to Mar 26, 2027; free; no visa sponsorship",
+    "amount": "Free 6 or 12 week programming retreat, remote or in NYC",
+    "who": "Programmers; in person in NYC or remote from anywhere; batch January 4 to March 26, 2027",
     "india": "yes",
     "link": "https://www.recurse.com/apply",
-    "checked": "2026-11-23"
+    "checked": "2026-11-26"
   },
   {
     "deadline": "2026-12-15",
@@ -313,10 +291,10 @@
     "org": "Biswas Family Foundation",
     "kind": "grant",
     "amount": "$25,000, $50,000 or $100,000 for a 12-month project",
-    "who": "Academic researchers worldwide, any career stage; paid to the institution, which must qualify for a US foundation gift",
+    "who": "Academic researchers worldwide, any career stage; paid to the institution, not to individuals",
     "india": "yes",
     "link": "https://airtable.com/appvoZqVg3b2ZuHln/pagqXTdALAvgT7PJB/form",
-    "checked": "2026-11-24"
+    "checked": "2026-11-26"
   },
   {
     "deadline": "2026-12-15",
@@ -448,7 +426,7 @@
     "who": "University or research institute researchers worldwide; PIs need a PhD or equivalent; up to 2 PIs",
     "india": "yes",
     "link": "https://webportalapp.com/sp/login/2027_msr_aiei_open_call_4_portal",
-    "checked": "2026-11-22"
+    "checked": "2026-11-26"
   },
   {
     "deadline": "2027-01-01",
@@ -504,6 +482,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/neurips-2026-smart-buildings",
     "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-01-05",
+    "title": "Google: Agent Harness on Physical-Engineering's Last Exam (PLE)",
+    "org": "Google Cloud AI Research and Mercor, on Kaggle",
+    "kind": "competition",
+    "amount": "$250,000 first, $100,000 second, $50,000 third",
+    "who": "Anyone who builds an AI agent harness for PLE's engineering tasks; Kaggle's eligibility rules could not be read",
+    "india": "unclear",
+    "link": "https://www.kaggle.com/competitions/physical-engineerings-last-exam",
+    "checked": "2026-11-26"
   },
   {
     "deadline": "2027-01-06",

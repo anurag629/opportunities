@@ -155,6 +155,17 @@
   },
   {
     "deadline": "2026-12-07",
+    "title": "Clojurists Together 2027 Annual Funding",
+    "org": "Clojurists Together",
+    "kind": "grant",
+    "amount": "$18,000: twelve $1,500 monthly stipends, 5 developers ($90,000 total)",
+    "who": "Open source Clojure developers; past grantees must re-apply",
+    "india": "unclear",
+    "link": "https://forms.gle/6kbiJTms2c2J97J3A",
+    "checked": "2026-11-28"
+  },
+  {
+    "deadline": "2026-12-07",
     "title": "Deck the Pixels",
     "org": "Google, with Adobe",
     "kind": "competition",
@@ -229,6 +240,17 @@
     "india": "yes",
     "link": "https://aws-agentic-msp.devpost.com/",
     "checked": "2026-11-04"
+  },
+  {
+    "deadline": "2026-12-11",
+    "title": "International Programme on AI Evaluation: Capabilities and Safety 2027",
+    "org": "ValgrAI programme, funded by Coefficient Giving",
+    "kind": "program",
+    "amount": "Tuition fully covered by scholarship; no stipend",
+    "who": "Grad/PhD students, early-career researchers, AI/ML professionals; online Feb 1 to Jun 25 2027, 12-16 h/week",
+    "india": "unclear",
+    "link": "https://aievaluation.fillout.com/apply2027",
+    "checked": "2026-11-28"
   },
   {
     "deadline": "2026-12-11",
@@ -760,6 +782,39 @@
   },
   {
     "deadline": "rolling",
+    "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
+    "org": "Ethereum Foundation",
+    "kind": "grant",
+    "amount": "Grant size set by scope, paid in ETH against milestones",
+    "who": "Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome",
+    "india": "unclear",
+    "link": "https://esp.ethereum.foundation/applicants",
+    "checked": "2026-11-28"
+  },
+  {
+    "deadline": "rolling",
+    "title": "Solana Foundation grants and convertible grants",
+    "org": "Solana Foundation",
+    "kind": "grant",
+    "amount": "Milestone-based grants sized to your budget; $100M+ given so far",
+    "who": "Anyone (individuals, teams, companies, academics) building open-source public goods for Solana",
+    "india": "yes",
+    "link": "https://airtable.com/app683f1deSq018D4/pagPjvaFp8VZsSD3A/form",
+    "checked": "2026-11-28"
+  },
+  {
+    "deadline": "rolling",
+    "title": "OpenSats grants (General, Long-Term Support, RED token reimbursement)",
+    "org": "OpenSats",
+    "kind": "grant",
+    "amount": "Grants for open source Bitcoin and nostr work; amounts not stated",
+    "who": "Open source developers and maintainers working on Bitcoin, nostr and related free software; security researchers for RED",
+    "india": "yes",
+    "link": "https://opensats.org/apply",
+    "checked": "2026-11-28"
+  },
+  {
+    "deadline": "rolling",
     "title": "a16z speedrun SR009",
     "org": "Andreessen Horowitz (a16z)",
     "kind": "accelerator",
@@ -944,27 +999,5 @@
     "india": "no",
     "link": "https://anthropic.com/claude-corps/fellow",
     "checked": "2026-11-16"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Solana Foundation grants and convertible grants",
-    "org": "Solana Foundation",
-    "kind": "grant",
-    "amount": "Milestone-based grants sized to your budget; $100M+ given so far",
-    "who": "Anyone (individuals, teams, companies, academics) building open-source public goods for Solana",
-    "india": "yes",
-    "link": "https://airtable.com/app683f1deSq018D4/pagPjvaFp8VZsSD3A/form",
-    "checked": "2026-11-16"
-  },
-  {
-    "deadline": "rolling",
-    "title": "Ethereum Foundation Ecosystem Support Program (Wishlist and RFP grants)",
-    "org": "Ethereum Foundation",
-    "kind": "grant",
-    "amount": "Grant size set by scope, paid in ETH against milestones",
-    "who": "Open-source, non-commercial work that improves Ethereum, against a posted Wishlist or RFP item; companies welcome",
-    "india": "unclear",
-    "link": "https://esp.ethereum.foundation/applicants",
-    "checked": "2026-11-15"
   }
 ]

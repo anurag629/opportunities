@@ -363,6 +363,17 @@
     "checked": "2026-11-02"
   },
   {
+    "deadline": "2026-12-17",
+    "title": "Tor Community Fellowship 2027",
+    "org": "The Tor Project",
+    "kind": "fellowship",
+    "amount": "500 USD per month for 6 months, part-time and remote",
+    "who": "Human rights defenders, journalists, technologists, researchers from listed countries; 4 fellows",
+    "india": "no",
+    "link": "https://nc.torproject.net/apps/forms/s/Dtk65kWacFaq8ejwsXYSsZmr",
+    "checked": "2026-11-28"
+  },
+  {
     "deadline": "2026-12-18",
     "title": "AI Agents for Founders Challenge (HETIC 2026)",
     "org": "HETIC",
@@ -407,6 +418,17 @@
     "checked": "2026-11-08"
   },
   {
+    "deadline": "2026-12-20",
+    "title": "Cooperative AI PhD Fellowship 2027",
+    "org": "Cooperative AI Foundation",
+    "kind": "fellowship",
+    "amount": "$7,000 yearly conference and compute budget, plus $600",
+    "who": "Current PhD students, or starting in 2027, at any accredited university worldwide, in cooperative AI",
+    "india": "yes",
+    "link": "https://airtable.com/appBB8soknaEeVu5O/pag6FjQr63h4mgrUH/form",
+    "checked": "2026-11-28"
+  },
+  {
     "deadline": "2026-12-22",
     "title": "Codegeist 2026",
     "org": "Atlassian",
@@ -449,6 +471,17 @@
     "india": "yes",
     "link": "https://webportalapp.com/sp/login/2027_msr_aiei_open_call_4_portal",
     "checked": "2026-11-26"
+  },
+  {
+    "deadline": "2026-12-31",
+    "title": "a16z FDE Fellowship, Cohort 2",
+    "org": "Andreessen Horowitz (a16z Build)",
+    "kind": "fellowship",
+    "amount": "8-week cohort, dinners and events (no stipend listed)",
+    "who": "FDEs and Applied AI leaders deploying AI with customers; events in SF and NYC, fellows based anywhere",
+    "india": "yes",
+    "link": "https://build.a16z.com/fellowships/fde/apply",
+    "checked": "2026-11-28"
   },
   {
     "deadline": "2027-01-01",
@@ -504,6 +537,17 @@
     "india": "yes",
     "link": "https://www.kaggle.com/competitions/neurips-2026-smart-buildings",
     "checked": "2026-11-02"
+  },
+  {
+    "deadline": "2027-01-04",
+    "title": "PSF Grants Program, conference and workshop round (events May to September 2027)",
+    "org": "Python Software Foundation",
+    "kind": "grant",
+    "amount": "Up to $2,000 (conferences) or $1,500 (workshops) in the 2026 round",
+    "who": "Organisers of Python conferences and workshops held May 1 to Sep 30, 2027; applications open Dec 14",
+    "india": "yes",
+    "link": "https://www.python.org/psf/grants/",
+    "checked": "2026-11-28"
   },
   {
     "deadline": "2027-01-05",
